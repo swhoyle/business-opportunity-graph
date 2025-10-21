@@ -1,2 +1,2 @@
-# San Diego Business Opportunity Knowledge Graph
+# Business Opportunity Knowledge Graph
 UCSD DSE 203 Project
