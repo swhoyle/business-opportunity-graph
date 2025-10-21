@@ -6,6 +6,8 @@ SELECT
     'CA' as code,
     'California' as name;
 
+
+
 -- ENTITY: county
 DROP TABLE IF EXISTS entity_county;
 CREATE TABLE entity_county AS
@@ -14,6 +16,8 @@ SELECT
     county as name
 FROM county_neighborhoods
 WHERE county IN ('San Diego', 'Imperial');
+
+
 
 -- ENTITY: city
 DROP TABLE IF EXISTS entity_city;
@@ -25,6 +29,8 @@ SELECT
 FROM city_neighborhoods CITY
 JOIN entity_county COUNTY ON CITY.county = COUNTY.name
 
+
+
 -- ENTITY: community
 DROP TABLE IF EXISTS entity_community;
 CREATE TABLE entity_community AS
@@ -34,6 +40,8 @@ SELECT
     COMM.summary_description as description
 FROM community_neighborhoods COMM
 JOIN entity_city CITY ON CITY.name = COMM.city
+
+
 
 -- ENTITY: zipcode
 DROP TABLE IF EXISTS entity_zipcode;
