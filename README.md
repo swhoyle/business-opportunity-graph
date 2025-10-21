@@ -15,3 +15,21 @@ Enrich the graph with LLM-derived insights to better categorize businesses and r
 - Pandas – Data manipulation
 - Neo4j – Knowledge graph database
 - LLM – Optional semantic enrichment
+
+## Graph Model
+
+### Entities (Nodes)
+
+- `Business`
+- `Store`
+- `State`
+- `County`
+- `City`
+- `Community`
+- `Zipcode`
+- `Block Group`
+
+### Relationships (Edges)
+- `County` -> contained in -> `State`
+- `City` -> contained in -> `County`
+- `Community` -> contained in -> `City`
