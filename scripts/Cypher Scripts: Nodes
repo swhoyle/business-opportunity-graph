@@ -1,0 +1,35 @@
+// Zipcodes
+
+
+CALL apoc.load.json('file:///zipcode.json') AS row
+//LOAD CSV WITH HEADERS FROM 'file:///zipcode.csv' AS row
+MERGE (z:Zip {Zipcode: row.zipcode})
+ON CREATE SET 
+    w.Geometry = row.geom,
+    w.Area = row.Area,
+    w.Parameter = row.Parameter;
+
+
+// Cities
+
+CALL apoc.load.json('file:///city.json') AS row
+//LOAD CSV WITH HEADERS FROM 'file:///city.csv' AS row
+MERGE (c:City {Name: row.name})
+ON CREATE SET 
+    w.Unincorporated = row.Is_unincorporated_place?,
+    w.Census_designated= row.Is_census_designated_place,
+    w.Description= row.description,
+    w.ID = row.id;
+
+
+// Communities 
+
+
+
+CALL apoc.load.json('file:///community.json') AS row
+//LOAD CSV WITH HEADERS FROM 'file:///community.csv' AS row
+MERGE (c:Community {Name: row.name})
+ON CREATE SET 
+    w.Description= row.description,
+    w.ID = row.id;
+
