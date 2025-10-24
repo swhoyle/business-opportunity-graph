@@ -1,1 +1,7 @@
-[{"id": 1, "code": "CA", "name": "California"}]
+[
+    {
+        "id": 1,
+        "code": "CA",
+        "name": "California"
+    }
+]

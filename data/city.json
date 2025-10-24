@@ -1,1 +1,218 @@
-[{"id": 16, "name": "La Mesa"}, {"id": 25, "name": "Vista"}, {"id": 24, "name": "Solana Beach"}, {"id": 21, "name": "San Diego"}, {"id": 68, "name": "San Diego Country Estates"}, {"id": 14, "name": "Escondido"}, {"id": 58, "name": "Lake San Marcos"}, {"id": 62, "name": "Pine Valley"}, {"id": 60, "name": "Mount Laguna"}, {"id": 63, "name": "Potrero"}, {"id": 45, "name": "Casa de Oro-Mount Helix"}, {"id": 11, "name": "Del Mar"}, {"id": 12, "name": "El Cajon"}, {"id": 36, "name": "Alpine"}, {"id": 37, "name": "Bonita"}, {"id": 10, "name": "Coronado"}, {"id": 51, "name": "Granite Hills"}, {"id": 13, "name": "Encinitas"}, {"id": 49, "name": "Fairbanks Ranch"}, {"id": 50, "name": "Fallbrook"}, {"id": 48, "name": "Eucalyptus Hills"}, {"id": 43, "name": "Camp Pendleton South"}, {"id": 44, "name": "Campo"}, {"id": 47, "name": "Descanso"}, {"id": 46, "name": "Crest"}, {"id": 20, "name": "Poway"}, {"id": 18, "name": "National City"}, {"id": 19, "name": "Oceanside"}, {"id": 17, "name": "Lemon Grove"}, {"id": 39, "name": "Borrego Springs"}, {"id": 56, "name": "Julian"}, {"id": 15, "name": "Imperial Beach"}, {"id": 53, "name": "Hidden Meadows"}, {"id": 55, "name": "Jamul"}, {"id": 38, "name": "Bonsall"}, {"id": 54, "name": "Jacumba"}, {"id": 42, "name": "Camp Pendleton North"}, {"id": 40, "name": "Bostonia"}, {"id": 52, "name": "Harbison Canyon"}, {"id": 41, "name": "Boulevard"}, {"id": 71, "name": "Winter Gardens"}, {"id": 70, "name": "Valley Center"}, {"id": 69, "name": "Spring Valley"}, {"id": 23, "name": "Santee"}, {"id": 67, "name": "Rancho Santa Fe"}, {"id": 65, "name": "Ramona"}, {"id": 64, "name": "Rainbow"}, {"id": 61, "name": "Pala"}, {"id": 57, "name": "La Presa"}, {"id": 59, "name": "Lakeside"}, {"id": 22, "name": "San Marcos"}, {"id": 66, "name": "Rancho San Diego"}, {"id": 9, "name": "Chula Vista"}, {"id": 8, "name": "Carlsbad"}]
+[
+    {
+        "id": 16,
+        "name": "La Mesa"
+    },
+    {
+        "id": 25,
+        "name": "Vista"
+    },
+    {
+        "id": 24,
+        "name": "Solana Beach"
+    },
+    {
+        "id": 21,
+        "name": "San Diego"
+    },
+    {
+        "id": 68,
+        "name": "San Diego Country Estates"
+    },
+    {
+        "id": 14,
+        "name": "Escondido"
+    },
+    {
+        "id": 58,
+        "name": "Lake San Marcos"
+    },
+    {
+        "id": 62,
+        "name": "Pine Valley"
+    },
+    {
+        "id": 60,
+        "name": "Mount Laguna"
+    },
+    {
+        "id": 63,
+        "name": "Potrero"
+    },
+    {
+        "id": 45,
+        "name": "Casa de Oro-Mount Helix"
+    },
+    {
+        "id": 11,
+        "name": "Del Mar"
+    },
+    {
+        "id": 12,
+        "name": "El Cajon"
+    },
+    {
+        "id": 36,
+        "name": "Alpine"
+    },
+    {
+        "id": 37,
+        "name": "Bonita"
+    },
+    {
+        "id": 10,
+        "name": "Coronado"
+    },
+    {
+        "id": 51,
+        "name": "Granite Hills"
+    },
+    {
+        "id": 13,
+        "name": "Encinitas"
+    },
+    {
+        "id": 49,
+        "name": "Fairbanks Ranch"
+    },
+    {
+        "id": 50,
+        "name": "Fallbrook"
+    },
+    {
+        "id": 48,
+        "name": "Eucalyptus Hills"
+    },
+    {
+        "id": 43,
+        "name": "Camp Pendleton South"
+    },
+    {
+        "id": 44,
+        "name": "Campo"
+    },
+    {
+        "id": 47,
+        "name": "Descanso"
+    },
+    {
+        "id": 46,
+        "name": "Crest"
+    },
+    {
+        "id": 20,
+        "name": "Poway"
+    },
+    {
+        "id": 18,
+        "name": "National City"
+    },
+    {
+        "id": 19,
+        "name": "Oceanside"
+    },
+    {
+        "id": 17,
+        "name": "Lemon Grove"
+    },
+    {
+        "id": 39,
+        "name": "Borrego Springs"
+    },
+    {
+        "id": 56,
+        "name": "Julian"
+    },
+    {
+        "id": 15,
+        "name": "Imperial Beach"
+    },
+    {
+        "id": 53,
+        "name": "Hidden Meadows"
+    },
+    {
+        "id": 55,
+        "name": "Jamul"
+    },
+    {
+        "id": 38,
+        "name": "Bonsall"
+    },
+    {
+        "id": 54,
+        "name": "Jacumba"
+    },
+    {
+        "id": 42,
+        "name": "Camp Pendleton North"
+    },
+    {
+        "id": 40,
+        "name": "Bostonia"
+    },
+    {
+        "id": 52,
+        "name": "Harbison Canyon"
+    },
+    {
+        "id": 41,
+        "name": "Boulevard"
+    },
+    {
+        "id": 71,
+        "name": "Winter Gardens"
+    },
+    {
+        "id": 70,
+        "name": "Valley Center"
+    },
+    {
+        "id": 69,
+        "name": "Spring Valley"
+    },
+    {
+        "id": 23,
+        "name": "Santee"
+    },
+    {
+        "id": 67,
+        "name": "Rancho Santa Fe"
+    },
+    {
+        "id": 65,
+        "name": "Ramona"
+    },
+    {
+        "id": 64,
+        "name": "Rainbow"
+    },
+    {
+        "id": 61,
+        "name": "Pala"
+    },
+    {
+        "id": 57,
+        "name": "La Presa"
+    },
+    {
+        "id": 59,
+        "name": "Lakeside"
+    },
+    {
+        "id": 22,
+        "name": "San Marcos"
+    },
+    {
+        "id": 66,
+        "name": "Rancho San Diego"
+    },
+    {
+        "id": 9,
+        "name": "Chula Vista"
+    },
+    {
+        "id": 8,
+        "name": "Carlsbad"
+    }
+]

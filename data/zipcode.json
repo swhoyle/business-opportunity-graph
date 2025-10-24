@@ -1,1 +1,299 @@
-[{"zipcode": "92281"}, {"zipcode": "91945"}, {"zipcode": "91901"}, {"zipcode": "92128"}, {"zipcode": "92010"}, {"zipcode": "92118"}, {"zipcode": "92127"}, {"zipcode": "92222"}, {"zipcode": "92027"}, {"zipcode": "91915"}, {"zipcode": "92147"}, {"zipcode": "92130"}, {"zipcode": "92129"}, {"zipcode": "92105"}, {"zipcode": "92233"}, {"zipcode": "92145"}, {"zipcode": "92110"}, {"zipcode": "92135"}, {"zipcode": "92069"}, {"zipcode": "92124"}, {"zipcode": "91950"}, {"zipcode": "92003"}, {"zipcode": "91932"}, {"zipcode": "92026"}, {"zipcode": "92007"}, {"zipcode": "92274"}, {"zipcode": "92107"}, {"zipcode": "92102"}, {"zipcode": "91948"}, {"zipcode": "92101"}, {"zipcode": "92021"}, {"zipcode": "92040"}, {"zipcode": "91911"}, {"zipcode": "92091"}, {"zipcode": "92173"}, {"zipcode": "92249"}, {"zipcode": "92037"}, {"zipcode": "92055"}, {"zipcode": "92014"}, {"zipcode": "91910"}, {"zipcode": "92132"}, {"zipcode": "92036"}, {"zipcode": "91935"}, {"zipcode": "92140"}, {"zipcode": "92283"}, {"zipcode": "92266"}, {"zipcode": "92109"}, {"zipcode": "92078"}, {"zipcode": "92134"}, {"zipcode": "92119"}, {"zipcode": "92113"}, {"zipcode": "92028"}, {"zipcode": "92251"}, {"zipcode": "92122"}, {"zipcode": "91913"}, {"zipcode": "92019"}, {"zipcode": "92120"}, {"zipcode": "91914"}, {"zipcode": "92115"}, {"zipcode": "92104"}, {"zipcode": "92121"}, {"zipcode": "92250"}, {"zipcode": "92123"}, {"zipcode": "92227"}, {"zipcode": "92075"}, {"zipcode": "92009"}, {"zipcode": "92008"}, {"zipcode": "92273"}, {"zipcode": "91906"}, {"zipcode": "92103"}, {"zipcode": "92082"}, {"zipcode": "92071"}, {"zipcode": "92058"}, {"zipcode": "92108"}, {"zipcode": "92011"}, {"zipcode": "92257"}, {"zipcode": "91905"}, {"zipcode": "92114"}, {"zipcode": "92275"}, {"zipcode": "91902"}, {"zipcode": "92004"}, {"zipcode": "92024"}, {"zipcode": "91978"}, {"zipcode": "92154"}, {"zipcode": "92029"}, {"zipcode": "92126"}, {"zipcode": "91962"}, {"zipcode": "92064"}, {"zipcode": "92117"}, {"zipcode": "92081"}, {"zipcode": "92155"}, {"zipcode": "92084"}, {"zipcode": "92057"}, {"zipcode": "92131"}, {"zipcode": "92111"}, {"zipcode": "92054"}, {"zipcode": "91942"}, {"zipcode": "92083"}, {"zipcode": "92231"}, {"zipcode": "92020"}, {"zipcode": "92067"}, {"zipcode": "92139"}, {"zipcode": "92116"}, {"zipcode": "91934"}, {"zipcode": "92106"}, {"zipcode": "92056"}, {"zipcode": "92259"}, {"zipcode": "92243"}, {"zipcode": "92025"}, {"zipcode": "92059"}, {"zipcode": "91963"}, {"zipcode": "91941"}, {"zipcode": "91916"}, {"zipcode": "91977"}, {"zipcode": "92065"}]
+[
+    {
+        "zipcode": "91945"
+    },
+    {
+        "zipcode": "91901"
+    },
+    {
+        "zipcode": "92128"
+    },
+    {
+        "zipcode": "92010"
+    },
+    {
+        "zipcode": "92118"
+    },
+    {
+        "zipcode": "92127"
+    },
+    {
+        "zipcode": "92027"
+    },
+    {
+        "zipcode": "91915"
+    },
+    {
+        "zipcode": "92147"
+    },
+    {
+        "zipcode": "92130"
+    },
+    {
+        "zipcode": "92129"
+    },
+    {
+        "zipcode": "92105"
+    },
+    {
+        "zipcode": "92145"
+    },
+    {
+        "zipcode": "92110"
+    },
+    {
+        "zipcode": "92135"
+    },
+    {
+        "zipcode": "92069"
+    },
+    {
+        "zipcode": "92124"
+    },
+    {
+        "zipcode": "91950"
+    },
+    {
+        "zipcode": "92003"
+    },
+    {
+        "zipcode": "91932"
+    },
+    {
+        "zipcode": "92026"
+    },
+    {
+        "zipcode": "92007"
+    },
+    {
+        "zipcode": "92107"
+    },
+    {
+        "zipcode": "92102"
+    },
+    {
+        "zipcode": "91948"
+    },
+    {
+        "zipcode": "92101"
+    },
+    {
+        "zipcode": "92021"
+    },
+    {
+        "zipcode": "92040"
+    },
+    {
+        "zipcode": "91911"
+    },
+    {
+        "zipcode": "92091"
+    },
+    {
+        "zipcode": "92173"
+    },
+    {
+        "zipcode": "92037"
+    },
+    {
+        "zipcode": "92055"
+    },
+    {
+        "zipcode": "92014"
+    },
+    {
+        "zipcode": "91910"
+    },
+    {
+        "zipcode": "92132"
+    },
+    {
+        "zipcode": "92036"
+    },
+    {
+        "zipcode": "91935"
+    },
+    {
+        "zipcode": "92140"
+    },
+    {
+        "zipcode": "92109"
+    },
+    {
+        "zipcode": "92078"
+    },
+    {
+        "zipcode": "92134"
+    },
+    {
+        "zipcode": "92119"
+    },
+    {
+        "zipcode": "92113"
+    },
+    {
+        "zipcode": "92028"
+    },
+    {
+        "zipcode": "92122"
+    },
+    {
+        "zipcode": "91913"
+    },
+    {
+        "zipcode": "92019"
+    },
+    {
+        "zipcode": "92120"
+    },
+    {
+        "zipcode": "91914"
+    },
+    {
+        "zipcode": "92115"
+    },
+    {
+        "zipcode": "92104"
+    },
+    {
+        "zipcode": "92121"
+    },
+    {
+        "zipcode": "92123"
+    },
+    {
+        "zipcode": "92075"
+    },
+    {
+        "zipcode": "92009"
+    },
+    {
+        "zipcode": "92008"
+    },
+    {
+        "zipcode": "91906"
+    },
+    {
+        "zipcode": "92103"
+    },
+    {
+        "zipcode": "92082"
+    },
+    {
+        "zipcode": "92071"
+    },
+    {
+        "zipcode": "92058"
+    },
+    {
+        "zipcode": "92108"
+    },
+    {
+        "zipcode": "92011"
+    },
+    {
+        "zipcode": "91905"
+    },
+    {
+        "zipcode": "92114"
+    },
+    {
+        "zipcode": "91902"
+    },
+    {
+        "zipcode": "92004"
+    },
+    {
+        "zipcode": "92024"
+    },
+    {
+        "zipcode": "91978"
+    },
+    {
+        "zipcode": "92154"
+    },
+    {
+        "zipcode": "92029"
+    },
+    {
+        "zipcode": "92126"
+    },
+    {
+        "zipcode": "91962"
+    },
+    {
+        "zipcode": "92064"
+    },
+    {
+        "zipcode": "92117"
+    },
+    {
+        "zipcode": "92081"
+    },
+    {
+        "zipcode": "92155"
+    },
+    {
+        "zipcode": "92084"
+    },
+    {
+        "zipcode": "92057"
+    },
+    {
+        "zipcode": "92131"
+    },
+    {
+        "zipcode": "92111"
+    },
+    {
+        "zipcode": "92054"
+    },
+    {
+        "zipcode": "91942"
+    },
+    {
+        "zipcode": "92083"
+    },
+    {
+        "zipcode": "92020"
+    },
+    {
+        "zipcode": "92067"
+    },
+    {
+        "zipcode": "92139"
+    },
+    {
+        "zipcode": "92116"
+    },
+    {
+        "zipcode": "91934"
+    },
+    {
+        "zipcode": "92106"
+    },
+    {
+        "zipcode": "92056"
+    },
+    {
+        "zipcode": "92025"
+    },
+    {
+        "zipcode": "92059"
+    },
+    {
+        "zipcode": "91963"
+    },
+    {
+        "zipcode": "91941"
+    },
+    {
+        "zipcode": "91916"
+    },
+    {
+        "zipcode": "91977"
+    },
+    {
+        "zipcode": "92065"
+    }
+]
