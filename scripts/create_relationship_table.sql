@@ -116,3 +116,24 @@ UNION
         'zipcode' AS entityType2
     FROM community_neighborhoods
 )
+
+UNION
+
+-- (community) -> overlaps_with -> (blockgroup)
+select name as entity1, 'community' as entityType1,
+       'overlaps_with' as predicate,
+      unnest(intersected_block_groups)::text as entity2, 'blockgroup' as entityType2
+from nourish_community_block_group_intersection
+
+UNION
+
+-- (business) -> contained_in -> (blockgroup)
+(
+    SELECT
+        id::TEXT AS entity1,
+        'business' AS entityType1,
+        'contained_in' AS predicate,
+        blockgroup::TEXT AS entity2,
+        'blockgroup' AS entityType2
+    FROM entity_business
+)
