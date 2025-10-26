@@ -51,6 +51,24 @@ SELECT
 FROM community_neighborhoods
 WHERE county = 'San Diego';
 
+ALTER TABLE entity_zipcode
+ADD COLUMN geom geometry(Geometry, 4326);
+
+ALTER TABLE entity_zipcode
+ADD COLUMN perimeter DOUBLE PRECISION;
+
+ALTER TABLE entity_zipcode
+ADD COLUMN area DOUBLE PRECISION;
+
+UPDATE entity_zipcode
+SET
+    geom = ST_Transform(s.geom, 4326),
+    perimeter = s.shape_length,
+    area = s.shape_area
+FROM nourish.public.test_zipcodes s
+WHERE entity_zipcode.zipcode = s.zip::text;
+
+
 -- ENTITY: block groups
 DROP TABLE IF EXISTS entity_blockgroup;
 CREATE TABLE entity_blockgroup AS
