@@ -1,3 +1,17 @@
+/******************************************
+This script drops and recreates each entity table:
+- entity_state
+- entity_county
+- entity_city
+- entity_community
+- entity_zipcode
+- entity_blockgroup
+- entity_business
+
+The script also grants access to each entity table
+*******************************************/
+
+
 /* DROP TABLES if they exists */
 DROP TABLE IF EXISTS entity_state;
 DROP TABLE IF EXISTS entity_county;
