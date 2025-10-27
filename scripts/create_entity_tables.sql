@@ -1,5 +1,15 @@
--- ENTITY: state
+/* DROP TABLES if they exists */
 DROP TABLE IF EXISTS entity_state;
+DROP TABLE IF EXISTS entity_county;
+DROP TABLE IF EXISTS entity_city;
+DROP TABLE IF EXISTS entity_community;
+DROP TABLE IF EXISTS entity_zipcode;
+DROP TABLE IF EXISTS entity_blockgroup;
+DROP TABLE IF EXISTS entity_business;
+
+/* CREATE TABLES */
+
+-- ENTITY: state
 CREATE TABLE entity_state AS
 SELECT
     1 as id,
@@ -7,7 +17,6 @@ SELECT
     'California' as name;
 
 -- ENTITY: county
-DROP TABLE IF EXISTS entity_county;
 CREATE TABLE entity_county AS
 SELECT
     id,
@@ -17,7 +26,6 @@ WHERE county = 'San Diego';
 
 
 -- ENTITY: city
-DROP TABLE IF EXISTS entity_city;
 CREATE TABLE entity_city AS
 SELECT
     id,
@@ -27,7 +35,6 @@ FROM city_neighborhoods
 WHERE county = 'San Diego';
 
 -- ENTITY: community
-DROP TABLE IF EXISTS entity_community;
 CREATE TABLE entity_community AS
 SELECT
     id,
@@ -37,7 +44,6 @@ FROM community_neighborhoods
 WHERE county = 'San Diego';
 
 -- ENTITY: zipcode
-DROP TABLE IF EXISTS entity_zipcode;
 CREATE TABLE entity_zipcode AS
 SELECT
     DISTINCT CAST(unnest(zipcodes) AS TEXT) AS zipcode
@@ -52,7 +58,6 @@ FROM community_neighborhoods
 WHERE county = 'San Diego';
 
 -- ENTITY: block groups
-DROP TABLE IF EXISTS entity_blockgroup;
 CREATE TABLE entity_blockgroup AS
 select sbg.ctblockgroup,
        sbg.geom,
@@ -96,8 +101,15 @@ order by sbg.ctblockgroup asc;
 
 
 -- ENTITY: business
-DROP TABLE IF EXISTS entity_business;
 CREATE TABLE entity_business AS
 SELECT *
 FROM nourish.public.ca_businesses_with_ai_franchise
 LIMIT 2000;
+
+/* Grant access to tables */
+GRANT ALL PRIVILEGES ON TABLE entity_state TO swhoyle, fahaque, isgonzal, fchavezsosa;
+GRANT ALL PRIVILEGES ON TABLE entity_county TO swhoyle, fahaque, isgonzal, fchavezsosa;
+GRANT ALL PRIVILEGES ON TABLE entity_city TO swhoyle, fahaque, isgonzal, fchavezsosa;
+GRANT ALL PRIVILEGES ON TABLE entity_community TO swhoyle, fahaque, isgonzal, fchavezsosa;
+GRANT ALL PRIVILEGES ON TABLE entity_blockgroup TO swhoyle, fahaque, isgonzal, fchavezsosa;
+GRANT ALL PRIVILEGES ON TABLE entity_business TO swhoyle, fahaque, isgonzal, fchavezsosa;
