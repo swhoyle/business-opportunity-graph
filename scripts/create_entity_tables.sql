@@ -1,5 +1,10 @@
 /******************************************
-This script drops and recreates each entity table:
+This script
+ 1. Drops each entity table
+ 2. Creates entity table and inserts data
+ 3. Grants access to the tables
+ 
+Entity tables:
 - entity_state
 - entity_county
 - entity_city
@@ -7,8 +12,6 @@ This script drops and recreates each entity table:
 - entity_zipcode
 - entity_blockgroup
 - entity_business
-
-The script also grants access to each entity table
 *******************************************/
 
 
