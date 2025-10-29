@@ -58,6 +58,14 @@ SELECT DISTINCT CAST(unnest(zipcodes) AS TEXT)
 FROM community_neighborhoods
 WHERE county = 'San Diego';
 
+UPDATE entity_zipcode
+SET
+    geom = ST_Transform(s.geom, 4326),
+    perimeter = s.shape_length,
+    area = s.shape_area
+FROM nourish.public.test_zipcodes s
+WHERE entity_zipcode.zipcode = s.zip::text;
+
 /* =============================
    ENTITY: blockgroup
 ============================= */

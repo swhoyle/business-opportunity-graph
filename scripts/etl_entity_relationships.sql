@@ -136,4 +136,30 @@ UNION
         blockgroup::TEXT AS entity2,
         'blockgroup' AS entitytype2
     FROM entity_business
+)
+
+UNION
+
+-- (business) -> contained_in -> (zipcode)
+(
+    SELECT
+        id::TEXT AS entity1,
+        'business' AS entityType1,
+        'contained_in' AS predicate,
+        zip::TEXT AS entity2,
+        'zipcode' AS entityType2
+    FROM entity_business
+)
+
+UNION
+
+-- (business) -> contained_in -> (city)
+(
+    SELECT
+        id::TEXT AS entity1,
+        'business' AS entityType1,
+        'contained_in' AS predicate,
+        city::TEXT AS entity2,
+        'city' AS entityType2
+    FROM entity_business
 );

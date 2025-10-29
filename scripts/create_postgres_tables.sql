@@ -44,7 +44,10 @@ CREATE TABLE entity_community (
 
 -- ENTITY: zipcode
 CREATE TABLE entity_zipcode (
-    zipcode TEXT
+    zipcode TEXT,
+    geom geometry(Geometry, 4326),
+    perimeter DOUBLE PRECISION,
+    area DOUBLE PRECISION
 );
 
 -- ENTITY: blockgroup
