@@ -60998,17 +60998,17 @@
         "entitytype2": "blockgroup"
     },
     {
-        "entity1": "16522",
-        "entitytype1": "business",
-        "predicate": "contained_in",
-        "entity2": "166141",
-        "entitytype2": "blockgroup"
-    },
-    {
         "entity1": "15806",
         "entitytype1": "business",
         "predicate": "contained_in",
         "entity2": "85112",
+        "entitytype2": "blockgroup"
+    },
+    {
+        "entity1": "16522",
+        "entitytype1": "business",
+        "predicate": "contained_in",
+        "entity2": "166141",
         "entitytype2": "blockgroup"
     },
     {

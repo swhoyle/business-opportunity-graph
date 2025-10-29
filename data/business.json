@@ -856,6 +856,25 @@
         "geom": "0101000020E6100000CDE7DCED7A4E5DC0D7CA3AD2CF744040"
     },
     {
+        "id": 18049,
+        "name": "Kohl's",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc73d940139d47:0x401b71567a0d7dce?authuser=-1&hl=en&gl=us",
+        "address": "Kohl's, 3410 Marron Rd, Oceanside, CA 92056",
+        "city": "Oceanside",
+        "zip": 92056,
+        "latitude": 33.179176399999996,
+        "longitude": -117.2983426,
+        "blockgroup": "198031",
+        "categories": [
+            "Department store"
+        ],
+        "avg_rating": 4.2,
+        "franchise": "FRANCHISE",
+        "confidence": 1.0,
+        "reasoning": "Kohl's is a well-known department store chain with multiple locations, indicating it operates as a franchise.",
+        "geom": "0101000020E61000003B808F0B18535DC0851B9540EF964040"
+    },
+    {
         "id": 625,
         "name": "Hoxton Manor",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d955b3f44f5149:0x57eaa7e7fe2685ad?authuser=-1&hl=en&gl=us",
@@ -4305,6 +4324,25 @@
         "geom": "0101000020E6100000AFEF1EFB344A5DC001FD1939665B4040"
     },
     {
+        "id": 3280,
+        "name": "The French Oven",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf94e712faefd:0xb59ea23e458634f1?authuser=-1&hl=en&gl=us",
+        "address": "The French Oven, 10299 Scripps Trail suite e, San Diego, CA 92131",
+        "city": "San Diego",
+        "zip": 92131,
+        "latitude": 32.9124628,
+        "longitude": -117.0794183,
+        "blockgroup": "170472",
+        "categories": [
+            "Bakery"
+        ],
+        "avg_rating": 4.8,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.85,
+        "reasoning": "The name 'The French Oven' does not indicate a widely recognized franchise brand, and the context suggests it is a local bakery in San Diego.",
+        "geom": "0101000020E61000000D4D7E3015455DC08668BE94CB744040"
+    },
+    {
         "id": 3047,
         "name": "Scripps Clinic Rancho Bernardo",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf0ab6be9aa99:0x55911c6f60e0f13a?authuser=-1&hl=en&gl=us",
@@ -4887,25 +4925,6 @@
         "geom": "0101000020E6100000EFBD6488884C5DC088331A5476604040"
     },
     {
-        "id": 3280,
-        "name": "The French Oven",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf94e712faefd:0xb59ea23e458634f1?authuser=-1&hl=en&gl=us",
-        "address": "The French Oven, 10299 Scripps Trail suite e, San Diego, CA 92131",
-        "city": "San Diego",
-        "zip": 92131,
-        "latitude": 32.9124628,
-        "longitude": -117.0794183,
-        "blockgroup": "170472",
-        "categories": [
-            "Bakery"
-        ],
-        "avg_rating": 4.8,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.85,
-        "reasoning": "The name 'The French Oven' does not indicate a widely recognized franchise brand, and the context suggests it is a local bakery in San Diego.",
-        "geom": "0101000020E61000000D4D7E3015455DC08668BE94CB744040"
-    },
-    {
         "id": 3283,
         "name": "FedEx Freight",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc074de5a34c53:0x2371756447c3e0a0?authuser=-1&hl=en&gl=us",
@@ -5178,6 +5197,28 @@
         "geom": "0101000020E61000000B2252D3AE4F5DC08AC0FD254E664040"
     },
     {
+        "id": 3557,
+        "name": "AAMCO Transmissions & Total Car Care",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc71c4cb9f9099:0x69d7e281ae53155f?authuser=-1&hl=en&gl=us",
+        "address": "AAMCO Transmissions & Total Car Care, 2255 Oceanside Blvd, Oceanside, CA 92054",
+        "city": "Oceanside",
+        "zip": 92054,
+        "latitude": 33.197773,
+        "longitude": -117.34953,
+        "blockgroup": "185042",
+        "categories": [
+            "Transmission shop",
+            "Auto repair shop",
+            "Brake shop",
+            "Oil change service"
+        ],
+        "avg_rating": 4.4,
+        "franchise": "FRANCHISE",
+        "confidence": 0.9,
+        "reasoning": "AAMCO is a well-known franchise brand specializing in transmission and auto repair services, indicating it operates as a franchise rather than an independent business.",
+        "geom": "0101000020E610000023BE13B35E565DC012842BA050994040"
+    },
+    {
         "id": 3454,
         "name": "Kaiser Permanente San Diego Medical Center : Obstetrics/Gynecology",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d955c123b68cdd:0xef9842596252201b?authuser=-1&hl=en&gl=us",
@@ -5433,28 +5474,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'Express Pipe & Supply' does not indicate a recognizable franchise brand and appears to be a local plumbing supply store.",
         "geom": "0101000020E610000055CF937C363D5DC0E4A837FE9F6C4040"
-    },
-    {
-        "id": 3557,
-        "name": "AAMCO Transmissions & Total Car Care",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc71c4cb9f9099:0x69d7e281ae53155f?authuser=-1&hl=en&gl=us",
-        "address": "AAMCO Transmissions & Total Car Care, 2255 Oceanside Blvd, Oceanside, CA 92054",
-        "city": "Oceanside",
-        "zip": 92054,
-        "latitude": 33.197773,
-        "longitude": -117.34953,
-        "blockgroup": "185042",
-        "categories": [
-            "Transmission shop",
-            "Auto repair shop",
-            "Brake shop",
-            "Oil change service"
-        ],
-        "avg_rating": 4.4,
-        "franchise": "FRANCHISE",
-        "confidence": 0.9,
-        "reasoning": "AAMCO is a well-known franchise brand specializing in transmission and auto repair services, indicating it operates as a franchise rather than an independent business.",
-        "geom": "0101000020E610000023BE13B35E565DC012842BA050994040"
     },
     {
         "id": 3588,
@@ -7979,6 +7998,25 @@
         "geom": "0101000020E61000001E8A5D3615445DC07C033862D25A4040"
     },
     {
+        "id": 5291,
+        "name": "Lowe's Garden Center",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc736008b5341d:0x5ef31ae64ab9a243?authuser=-1&hl=en&gl=us",
+        "address": "Lowe's Garden Center, 2515 Palomar Airport Rd, Carlsbad, CA 92008",
+        "city": "Carlsbad",
+        "zip": 92008,
+        "latitude": 33.1281635,
+        "longitude": -117.2673564,
+        "blockgroup": "221024",
+        "categories": [
+            "Garden center"
+        ],
+        "avg_rating": 4.1,
+        "franchise": "FRANCHISE",
+        "confidence": 0.9,
+        "reasoning": "Lowe's is a well-known national retail chain that specializes in home improvement and garden supplies, indicating it operates as a franchise.",
+        "geom": "0101000020E61000001598045E1C515DC03C855CA967904040"
+    },
+    {
         "id": 5138,
         "name": "Blink Charging Station",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d95497a62ba033:0x1b8593fb0b90d357?authuser=-1&hl=en&gl=us",
@@ -8234,25 +8272,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'King Music of San Diego' does not indicate a recognizable franchise brand and suggests a local, independent business focused on musical instrument rentals.",
         "geom": "0101000020E610000084C256BF88485DC033C005D9B25E4040"
-    },
-    {
-        "id": 5291,
-        "name": "Lowe's Garden Center",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc736008b5341d:0x5ef31ae64ab9a243?authuser=-1&hl=en&gl=us",
-        "address": "Lowe's Garden Center, 2515 Palomar Airport Rd, Carlsbad, CA 92008",
-        "city": "Carlsbad",
-        "zip": 92008,
-        "latitude": 33.1281635,
-        "longitude": -117.2673564,
-        "blockgroup": "221024",
-        "categories": [
-            "Garden center"
-        ],
-        "avg_rating": 4.1,
-        "franchise": "FRANCHISE",
-        "confidence": 0.9,
-        "reasoning": "Lowe's is a well-known national retail chain that specializes in home improvement and garden supplies, indicating it operates as a franchise.",
-        "geom": "0101000020E61000001598045E1C515DC03C855CA967904040"
     },
     {
         "id": 5307,
@@ -11640,6 +11659,25 @@
         "geom": "0101000020E61000000762348614465DC0DFBB7262B4524040"
     },
     {
+        "id": 7808,
+        "name": "Famous Footwear",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc0b7f4a5ad605:0x7e762cd5cbafef68?authuser=-1&hl=en&gl=us",
+        "address": "Famous Footwear, RANCH TOWN CENTER, 1026 N El Camino Real, Encinitas, CA 92024",
+        "city": "Encinitas",
+        "zip": 92024,
+        "latitude": 33.0645981,
+        "longitude": -117.2664642,
+        "blockgroup": "176061",
+        "categories": [
+            "Shoe store"
+        ],
+        "avg_rating": 4.0,
+        "franchise": "FRANCHISE",
+        "confidence": 0.95,
+        "reasoning": "Famous Footwear is a well-known retail chain specializing in shoes, indicating it operates as a franchise.",
+        "geom": "0101000020E61000008223DCBF0D515DC01E7123C044884040"
+    },
+    {
         "id": 7675,
         "name": "Carolines Pad",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d9541ad1cbed69:0xaf8ae255e910e125?authuser=-1&hl=en&gl=us",
@@ -11924,25 +11962,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'Beauty Nail' does not indicate a recognizable franchise brand and is likely an independent nail salon.",
         "geom": "0101000020E610000004A161D630455DC07D1EA33CF3604040"
-    },
-    {
-        "id": 7808,
-        "name": "Famous Footwear",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc0b7f4a5ad605:0x7e762cd5cbafef68?authuser=-1&hl=en&gl=us",
-        "address": "Famous Footwear, RANCH TOWN CENTER, 1026 N El Camino Real, Encinitas, CA 92024",
-        "city": "Encinitas",
-        "zip": 92024,
-        "latitude": 33.0645981,
-        "longitude": -117.2664642,
-        "blockgroup": "176061",
-        "categories": [
-            "Shoe store"
-        ],
-        "avg_rating": 4.0,
-        "franchise": "FRANCHISE",
-        "confidence": 0.95,
-        "reasoning": "Famous Footwear is a well-known retail chain specializing in shoes, indicating it operates as a franchise.",
-        "geom": "0101000020E61000008223DCBF0D515DC01E7123C044884040"
     },
     {
         "id": 7815,
@@ -12797,6 +12816,25 @@
         "geom": "0101000020E6100000CB000638F3565DC0A300513063984040"
     },
     {
+        "id": 9729,
+        "name": "Sub Hub",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf48d2d27c5bf:0xc60003ec578736a5?authuser=-1&hl=en&gl=us",
+        "address": "Sub Hub, 1348 W Valley Pkwy g, Escondido, CA 92029",
+        "city": "Escondido",
+        "zip": 92029,
+        "latitude": 33.1121702,
+        "longitude": -117.1030406,
+        "blockgroup": "203132",
+        "categories": [
+            "Sandwich shop"
+        ],
+        "avg_rating": 4.5,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.8,
+        "reasoning": "The name 'Sub Hub' does not appear to be a widely recognized franchise brand, suggesting it is likely an independent sandwich shop.",
+        "geom": "0101000020E610000041CA993798465DC0FB4AD6975B8E4040"
+    },
+    {
         "id": 8609,
         "name": "Life Adjusted Wellness",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc013e5de95611:0x5f37dd3973fa54a1?authuser=-1&hl=en&gl=us",
@@ -13085,6 +13123,25 @@
         "confidence": 0.9,
         "reasoning": "Point Loma Assembly does not appear to be a recognizable franchise brand and is likely a unique venue in San Diego.",
         "geom": "0101000020E6100000D6A5EB2EF54E5DC0CF5F8D58305C4040"
+    },
+    {
+        "id": 11077,
+        "name": "Mobil",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc72e473ff270f:0xb95f810c4266cb27?authuser=-1&hl=en&gl=us",
+        "address": "Mobil, Carlsbad, CA 92011",
+        "city": "Carlsbad",
+        "zip": 92011,
+        "latitude": 33.1219313,
+        "longitude": -117.3208906,
+        "blockgroup": "178111",
+        "categories": [
+            "Gas station"
+        ],
+        "avg_rating": 3.0,
+        "franchise": "FRANCHISE",
+        "confidence": 0.9,
+        "reasoning": "Mobil is a well-known brand in the gas station industry, indicating it operates as a franchise.",
+        "geom": "0101000020E61000000126BA7889545DC0ECEDE0719B8F4040"
     },
     {
         "id": 8828,
@@ -14212,6 +14269,25 @@
         "geom": "0101000020E6100000A52C431CEB4F5DC04785FB123B594040"
     },
     {
+        "id": 14229,
+        "name": "Papa John's Pizza",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d956ee9460343f:0x428bd71c06a33a32?authuser=-1&hl=en&gl=us",
+        "address": "Papa John's Pizza, 6925 El Cajon Blvd, San Diego, CA 92115",
+        "city": "San Diego",
+        "zip": 92115,
+        "latitude": 32.7682491,
+        "longitude": -117.0487845,
+        "blockgroup": "29052",
+        "categories": [
+            "Pizza restaurant"
+        ],
+        "avg_rating": 3.5,
+        "franchise": "FRANCHISE",
+        "confidence": 1.0,
+        "reasoning": "Papa John's Pizza is a well-known pizza franchise with multiple locations, indicating it is part of a larger chain.",
+        "geom": "0101000020E61000004F0306491F435DC039D78BFC55624040"
+    },
+    {
         "id": 9472,
         "name": "San Diego Credit Repair - Credit Repair Services, Credit Counseling Services, Credit Repair San Diego",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d95592c57ea331:0xf9915a29cb7a81b?authuser=-1&hl=en&gl=us",
@@ -14503,25 +14579,6 @@
         "confidence": 0.9,
         "reasoning": "Urban Decay is a well-known cosmetics brand that operates as a franchise with multiple retail locations, indicating it is part of a larger chain.",
         "geom": "0101000020E61000001DD83BED3A445DC02C91555BFB534040"
-    },
-    {
-        "id": 9729,
-        "name": "Sub Hub",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf48d2d27c5bf:0xc60003ec578736a5?authuser=-1&hl=en&gl=us",
-        "address": "Sub Hub, 1348 W Valley Pkwy g, Escondido, CA 92029",
-        "city": "Escondido",
-        "zip": 92029,
-        "latitude": 33.1121702,
-        "longitude": -117.1030406,
-        "blockgroup": "203132",
-        "categories": [
-            "Sandwich shop"
-        ],
-        "avg_rating": 4.5,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.8,
-        "reasoning": "The name 'Sub Hub' does not appear to be a widely recognized franchise brand, suggesting it is likely an independent sandwich shop.",
-        "geom": "0101000020E610000041CA993798465DC0FB4AD6975B8E4040"
     },
     {
         "id": 9740,
@@ -16232,6 +16289,27 @@
         "geom": "0101000020E61000005BB631D17B465DC0489D256D4F644040"
     },
     {
+        "id": 16061,
+        "name": "CarMax",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf4bdd60f5cb9:0x11d3bc23ca74b0a3?authuser=-1&hl=en&gl=us",
+        "address": "CarMax, 830 Dan Way, Escondido, CA 92025",
+        "city": "Escondido",
+        "zip": 92025,
+        "latitude": 33.1286651,
+        "longitude": -117.097337,
+        "blockgroup": "203131",
+        "categories": [
+            "Used car dealer",
+            "Car dealer",
+            "Chauffeur service"
+        ],
+        "avg_rating": 4.3,
+        "franchise": "FRANCHISE",
+        "confidence": 0.9,
+        "reasoning": "CarMax is a well-known national used car retailer with multiple locations, indicating it operates as a franchise.",
+        "geom": "0101000020E610000035ECF7C43A465DC07B51161978904040"
+    },
+    {
         "id": 10902,
         "name": "Everbowl",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc0df34736c385:0x42bc85bbe3c0303a?authuser=-1&hl=en&gl=us",
@@ -16528,25 +16606,6 @@
         "confidence": 0.8,
         "reasoning": "Mica Beauty does not appear to be a widely recognized franchise brand and is likely an independent cosmetics store.",
         "geom": "0101000020E610000008ABB18435445DC028A14F3F03544040"
-    },
-    {
-        "id": 11077,
-        "name": "Mobil",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc72e473ff270f:0xb95f810c4266cb27?authuser=-1&hl=en&gl=us",
-        "address": "Mobil, Carlsbad, CA 92011",
-        "city": "Carlsbad",
-        "zip": 92011,
-        "latitude": 33.1219313,
-        "longitude": -117.3208906,
-        "blockgroup": "178111",
-        "categories": [
-            "Gas station"
-        ],
-        "avg_rating": 3.0,
-        "franchise": "FRANCHISE",
-        "confidence": 0.9,
-        "reasoning": "Mobil is a well-known brand in the gas station industry, indicating it operates as a franchise.",
-        "geom": "0101000020E61000000126BA7889545DC0ECEDE0719B8F4040"
     },
     {
         "id": 11082,
@@ -17399,6 +17458,27 @@
         "confidence": 0.9,
         "reasoning": "Goodwill is a well-known non-profit organization, but each Goodwill store operates independently in terms of management and local operations, indicating it is not a franchise in the traditional sense.",
         "geom": "0101000020E6100000BC581822A7455DC0553E1581FB8F4040"
+    },
+    {
+        "id": 16522,
+        "name": "CVS",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbe2aaa9fc596f:0x3d7ecc2ab0229bf?authuser=-1&hl=en&gl=us",
+        "address": "CVS, 9730 Mission Gorge Rd, Santee, CA 92071",
+        "city": "Santee",
+        "zip": 92071,
+        "latitude": 32.8397346,
+        "longitude": -116.9849663,
+        "blockgroup": "166141",
+        "categories": [
+            "Drug store",
+            "Convenience store",
+            "Cosmetics store"
+        ],
+        "avg_rating": 2.6,
+        "franchise": "FRANCHISE",
+        "confidence": 1.0,
+        "reasoning": "CVS is a well-known national chain of drug stores, indicating it operates as a franchise.",
+        "geom": "0101000020E6100000608A17B0093F5DC0EA28626C7C6B4040"
     },
     {
         "id": 11575,
@@ -18832,6 +18912,25 @@
         "geom": "0101000020E61000005A8F0C83433E5DC05E08DE358D5E4040"
     },
     {
+        "id": 12583,
+        "name": "Lee's Cycle Services",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbfe29f17c585f:0xf167801e865f8616?authuser=-1&hl=en&gl=us",
+        "address": "Lee's Cycle Services, 9726 Aero Dr Suite D, San Diego, CA 92123",
+        "city": "San Diego",
+        "zip": 92123,
+        "latitude": 32.808679999999995,
+        "longitude": -117.1201808,
+        "blockgroup": "85113",
+        "categories": [
+            "Motorcycle repair shop"
+        ],
+        "avg_rating": 4.5,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.9,
+        "reasoning": "The name 'Lee's Cycle Services' does not indicate a recognizable franchise brand and suggests a locally owned motorcycle repair shop.",
+        "geom": "0101000020E6100000DB66CF0AB1475DC0F27684D382674040"
+    },
+    {
         "id": 12432,
         "name": "Gaslamp Cafe & Lounge",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d95359c36bf07f:0xe41de51488a76785?authuser=-1&hl=en&gl=us",
@@ -19108,25 +19207,6 @@
         "confidence": 0.9,
         "reasoning": "The business name 'San Diego Land Care' does not indicate a recognizable franchise brand and appears to be a local service provider in the lawn care and landscaping industry.",
         "geom": "0101000020E61000004C3E2C8A0D4D5DC0E47107A0076A4040"
-    },
-    {
-        "id": 12583,
-        "name": "Lee's Cycle Services",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbfe29f17c585f:0xf167801e865f8616?authuser=-1&hl=en&gl=us",
-        "address": "Lee's Cycle Services, 9726 Aero Dr Suite D, San Diego, CA 92123",
-        "city": "San Diego",
-        "zip": 92123,
-        "latitude": 32.808679999999995,
-        "longitude": -117.1201808,
-        "blockgroup": "85113",
-        "categories": [
-            "Motorcycle repair shop"
-        ],
-        "avg_rating": 4.5,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.9,
-        "reasoning": "The name 'Lee's Cycle Services' does not indicate a recognizable franchise brand and suggests a locally owned motorcycle repair shop.",
-        "geom": "0101000020E6100000DB66CF0AB1475DC0F27684D382674040"
     },
     {
         "id": 12615,
@@ -21147,25 +21227,6 @@
         "geom": "0101000020E6100000B09CCE5F324A5DC007173C96885F4040"
     },
     {
-        "id": 14229,
-        "name": "Papa John's Pizza",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d956ee9460343f:0x428bd71c06a33a32?authuser=-1&hl=en&gl=us",
-        "address": "Papa John's Pizza, 6925 El Cajon Blvd, San Diego, CA 92115",
-        "city": "San Diego",
-        "zip": 92115,
-        "latitude": 32.7682491,
-        "longitude": -117.0487845,
-        "blockgroup": "29052",
-        "categories": [
-            "Pizza restaurant"
-        ],
-        "avg_rating": 3.5,
-        "franchise": "FRANCHISE",
-        "confidence": 1.0,
-        "reasoning": "Papa John's Pizza is a well-known pizza franchise with multiple locations, indicating it is part of a larger chain.",
-        "geom": "0101000020E61000004F0306491F435DC039D78BFC55624040"
-    },
-    {
         "id": 14243,
         "name": "Sharp Rees-Stealy La Mesa West Physical Therapy",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d9571ee06958b5:0x399fb5ce3485b2b1?authuser=-1&hl=en&gl=us",
@@ -21723,6 +21784,25 @@
         "geom": "0101000020E61000000531D0B52F4D5DC04835ECF7C4604040"
     },
     {
+        "id": 15057,
+        "name": "East 2 West Cutz",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc71dea3828197:0xd5f12b7b9468273c?authuser=-1&hl=en&gl=us",
+        "address": "East 2 West Cutz, 1906 Oceanside Blvd, Oceanside, CA 92054",
+        "city": "Oceanside",
+        "zip": 92054,
+        "latitude": 33.1942592,
+        "longitude": -117.35730079999999,
+        "blockgroup": "185091",
+        "categories": [
+            "Barber shop"
+        ],
+        "avg_rating": 4.2,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.9,
+        "reasoning": "The name 'East 2 West Cutz' does not indicate a recognizable franchise brand and is more likely to be a locally owned barber shop.",
+        "geom": "0101000020E61000006AB52C04DE565DC03B79477CDD984040"
+    },
+    {
         "id": 14531,
         "name": "Beach Blaster",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80deaa0eea3ecfbf:0x3c8dcb32e6bfd050?authuser=-1&hl=en&gl=us",
@@ -22005,6 +22085,27 @@
         "geom": "0101000020E61000002C544843D74D5DC00F327F3B3F5D4040"
     },
     {
+        "id": 15078,
+        "name": "H&M",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d95533d7d230a7:0x1641f8e996e15b83?authuser=-1&hl=en&gl=us",
+        "address": "H&M, 7007 Friars Rd, San Diego, CA 92108",
+        "city": "San Diego",
+        "zip": 92108,
+        "latitude": 32.7671858,
+        "longitude": -117.16856829999999,
+        "blockgroup": "89022",
+        "categories": [
+            "Clothing store",
+            "Men's clothing store",
+            "Women's clothing store"
+        ],
+        "avg_rating": 4.1,
+        "franchise": "FRANCHISE",
+        "confidence": 1.0,
+        "reasoning": "H&M is a well-known international clothing retail chain, indicating it operates as a franchise.",
+        "geom": "0101000020E61000001BE9B1D2C94A5DC0517AF02433624040"
+    },
+    {
         "id": 14726,
         "name": "Timothy J Geraci M.D.| Kaiser Permanente",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d955c0d832df87:0x6bd1e9382c4d765f?authuser=-1&hl=en&gl=us",
@@ -22282,6 +22383,26 @@
         "confidence": 0.85,
         "reasoning": "Honest 1 Auto Care is a recognizable brand in the auto repair industry, indicating it operates as a franchise with multiple locations.",
         "geom": "0101000020E61000007980DD9FC1425DC001CE9C3FB7664040"
+    },
+    {
+        "id": 15230,
+        "name": "Big Bear Produce",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d959b73691f00f:0xd93b9bdc7fab6a53?authuser=-1&hl=en&gl=us",
+        "address": "Big Bear Produce, 502 E Main St, El Cajon, CA 92020",
+        "city": "El Cajon",
+        "zip": 92020,
+        "latitude": 32.7951641,
+        "longitude": -116.9562546,
+        "blockgroup": "158011",
+        "categories": [
+            "Grocery store",
+            "Supermarket"
+        ],
+        "avg_rating": 3.7,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.85,
+        "reasoning": "The name 'Big Bear Produce' does not indicate a recognizable franchise brand and suggests a local grocery store, which is more characteristic of an independent business.",
+        "geom": "0101000020E610000092697E46333D5DC0053AEEEFC7654040"
     },
     {
         "id": 14942,
@@ -22579,46 +22700,6 @@
         "geom": "0101000020E61000001BEB877D27455DC0A8D8E2642C844040"
     },
     {
-        "id": 15057,
-        "name": "East 2 West Cutz",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc71dea3828197:0xd5f12b7b9468273c?authuser=-1&hl=en&gl=us",
-        "address": "East 2 West Cutz, 1906 Oceanside Blvd, Oceanside, CA 92054",
-        "city": "Oceanside",
-        "zip": 92054,
-        "latitude": 33.1942592,
-        "longitude": -117.35730079999999,
-        "blockgroup": "185091",
-        "categories": [
-            "Barber shop"
-        ],
-        "avg_rating": 4.2,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.9,
-        "reasoning": "The name 'East 2 West Cutz' does not indicate a recognizable franchise brand and is more likely to be a locally owned barber shop.",
-        "geom": "0101000020E61000006AB52C04DE565DC03B79477CDD984040"
-    },
-    {
-        "id": 15078,
-        "name": "H&M",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d95533d7d230a7:0x1641f8e996e15b83?authuser=-1&hl=en&gl=us",
-        "address": "H&M, 7007 Friars Rd, San Diego, CA 92108",
-        "city": "San Diego",
-        "zip": 92108,
-        "latitude": 32.7671858,
-        "longitude": -117.16856829999999,
-        "blockgroup": "89022",
-        "categories": [
-            "Clothing store",
-            "Men's clothing store",
-            "Women's clothing store"
-        ],
-        "avg_rating": 4.1,
-        "franchise": "FRANCHISE",
-        "confidence": 1.0,
-        "reasoning": "H&M is a well-known international clothing retail chain, indicating it operates as a franchise.",
-        "geom": "0101000020E61000001BE9B1D2C94A5DC0517AF02433624040"
-    },
-    {
         "id": 15114,
         "name": "United States Postal Service",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc08b53bb829f3:0xb99dc098e4574a3f?authuser=-1&hl=en&gl=us",
@@ -22898,24 +22979,23 @@
         "geom": "0101000020E61000004B25975A4A525DC0CD16B5A09C8F4040"
     },
     {
-        "id": 15230,
-        "name": "Big Bear Produce",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d959b73691f00f:0xd93b9bdc7fab6a53?authuser=-1&hl=en&gl=us",
-        "address": "Big Bear Produce, 502 E Main St, El Cajon, CA 92020",
-        "city": "El Cajon",
-        "zip": 92020,
-        "latitude": 32.7951641,
-        "longitude": -116.9562546,
-        "blockgroup": "158011",
+        "id": 15453,
+        "name": "Dr. Shawn J. Bissonnette, MD",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf910a69575c3:0xc9b5f85b5dcee706?authuser=-1&hl=en&gl=us",
+        "address": "Dr. Shawn J. Bissonnette, MD, 9845 Erma Rd, San Diego, CA 92131",
+        "city": "San Diego",
+        "zip": 92131,
+        "latitude": 32.919428499999995,
+        "longitude": -117.1149853,
+        "blockgroup": "170432",
         "categories": [
-            "Grocery store",
-            "Supermarket"
+            "Pediatrician"
         ],
-        "avg_rating": 3.7,
+        "avg_rating": 3.8,
         "franchise": "INDEPENDENT",
-        "confidence": 0.85,
-        "reasoning": "The name 'Big Bear Produce' does not indicate a recognizable franchise brand and suggests a local grocery store, which is more characteristic of an independent business.",
-        "geom": "0101000020E610000092697E46333D5DC0053AEEEFC7654040"
+        "confidence": 0.9,
+        "reasoning": "The business name includes a personal name and title, indicating it is likely a private practice rather than a franchise.",
+        "geom": "0101000020E610000054C14DEB5B475DC0524145D5AF754040"
     },
     {
         "id": 15241,
@@ -23209,25 +23289,6 @@
         "confidence": 0.9,
         "reasoning": "The Lyceum Theatres is a specific performing arts venue and does not appear to be part of a recognizable franchise or chain, indicating it is likely an independent business.",
         "geom": "0101000020E61000004DB626825D4A5DC046A0B07A765B4040"
-    },
-    {
-        "id": 15453,
-        "name": "Dr. Shawn J. Bissonnette, MD",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf910a69575c3:0xc9b5f85b5dcee706?authuser=-1&hl=en&gl=us",
-        "address": "Dr. Shawn J. Bissonnette, MD, 9845 Erma Rd, San Diego, CA 92131",
-        "city": "San Diego",
-        "zip": 92131,
-        "latitude": 32.919428499999995,
-        "longitude": -117.1149853,
-        "blockgroup": "170432",
-        "categories": [
-            "Pediatrician"
-        ],
-        "avg_rating": 3.8,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.9,
-        "reasoning": "The business name includes a personal name and title, indicating it is likely a private practice rather than a franchise.",
-        "geom": "0101000020E610000054C14DEB5B475DC0524145D5AF754040"
     },
     {
         "id": 15454,
@@ -24096,27 +24157,6 @@
         "geom": "0101000020E61000006962CB3C83435DC09FA63BF4824D4040"
     },
     {
-        "id": 16061,
-        "name": "CarMax",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf4bdd60f5cb9:0x11d3bc23ca74b0a3?authuser=-1&hl=en&gl=us",
-        "address": "CarMax, 830 Dan Way, Escondido, CA 92025",
-        "city": "Escondido",
-        "zip": 92025,
-        "latitude": 33.1286651,
-        "longitude": -117.097337,
-        "blockgroup": "203131",
-        "categories": [
-            "Used car dealer",
-            "Car dealer",
-            "Chauffeur service"
-        ],
-        "avg_rating": 4.3,
-        "franchise": "FRANCHISE",
-        "confidence": 0.9,
-        "reasoning": "CarMax is a well-known national used car retailer with multiple locations, indicating it operates as a franchise.",
-        "geom": "0101000020E610000035ECF7C43A465DC07B51161978904040"
-    },
-    {
         "id": 16062,
         "name": "chuparosa VINEYARDS",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbe646679cf8ed:0x30be247c0637e7fa?authuser=-1&hl=en&gl=us",
@@ -24386,6 +24426,25 @@
         "confidence": 0.85,
         "reasoning": "The name 'Pacific Shores Bar' does not indicate a recognizable franchise brand and suggests a unique, locally-owned establishment.",
         "geom": "0101000020E6100000FA42C879FF4F5DC066868DB27E5F4040"
+    },
+    {
+        "id": 17087,
+        "name": "Lightning Brewery",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbfba4a850193b:0x851500a08ca197e8?authuser=-1&hl=en&gl=us",
+        "address": "Lightning Brewery, 13200 Kirkham Way STE 106, Poway, CA 92064",
+        "city": "Poway",
+        "zip": 92064,
+        "latitude": 32.9357833,
+        "longitude": -117.0433654,
+        "blockgroup": "170492",
+        "categories": [
+            "Brewery"
+        ],
+        "avg_rating": 4.7,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.85,
+        "reasoning": "The name 'Lightning Brewery' does not indicate a recognizable franchise brand and suggests a local or independent brewery.",
+        "geom": "0101000020E6100000CAB1AB7FC6425DC04CD246BFC7774040"
     },
     {
         "id": 16241,
@@ -24976,27 +25035,6 @@
         "geom": "0101000020E6100000B29FC552A44E5DC07AB5920CEF904040"
     },
     {
-        "id": 16522,
-        "name": "CVS",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbe2aaa9fc596f:0x3d7ecc2ab0229bf?authuser=-1&hl=en&gl=us",
-        "address": "CVS, 9730 Mission Gorge Rd, Santee, CA 92071",
-        "city": "Santee",
-        "zip": 92071,
-        "latitude": 32.8397346,
-        "longitude": -116.9849663,
-        "blockgroup": "166141",
-        "categories": [
-            "Drug store",
-            "Convenience store",
-            "Cosmetics store"
-        ],
-        "avg_rating": 2.6,
-        "franchise": "FRANCHISE",
-        "confidence": 1.0,
-        "reasoning": "CVS is a well-known national chain of drug stores, indicating it operates as a franchise.",
-        "geom": "0101000020E6100000608A17B0093F5DC0EA28626C7C6B4040"
-    },
-    {
         "id": 16527,
         "name": "Firefly Grill & Wine Bar",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc0b8e99e9342b:0x37006d690023a1d6?authuser=-1&hl=en&gl=us",
@@ -25267,6 +25305,25 @@
         "confidence": 0.9,
         "reasoning": "The business name 'Harrison Yang Optometry' suggests it is a personal practice likely owned by an individual rather than a recognizable franchise brand.",
         "geom": "0101000020E6100000C817FE1D9B405DC09377C4D78D634040"
+    },
+    {
+        "id": 16928,
+        "name": "Cinema Under The Stars",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d954d4932d14c3:0x5c9109628c85c970?authuser=-1&hl=en&gl=us",
+        "address": "Cinema Under The Stars, 4040 Goldfinch St, San Diego, CA 92103",
+        "city": "San Diego",
+        "zip": 92103,
+        "latitude": 32.7505964,
+        "longitude": -117.1716797,
+        "blockgroup": "2012",
+        "categories": [
+            "Outdoor movie theater"
+        ],
+        "avg_rating": 4.7,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.85,
+        "reasoning": "The name 'Cinema Under The Stars' does not indicate a recognizable franchise brand and suggests a unique, localized outdoor movie experience.",
+        "geom": "0101000020E6100000C638DACCFC4A5DC0673FF78A13604040"
     },
     {
         "id": 16683,
@@ -25548,25 +25605,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'Oscar Wilde's Irish Pub' suggests a unique, themed establishment rather than a recognizable franchise brand. It does not indicate a chain or widely known franchise.",
         "geom": "0101000020E6100000A93A9AD99D495DC03253FFC5D85F4040"
-    },
-    {
-        "id": 16928,
-        "name": "Cinema Under The Stars",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d954d4932d14c3:0x5c9109628c85c970?authuser=-1&hl=en&gl=us",
-        "address": "Cinema Under The Stars, 4040 Goldfinch St, San Diego, CA 92103",
-        "city": "San Diego",
-        "zip": 92103,
-        "latitude": 32.7505964,
-        "longitude": -117.1716797,
-        "blockgroup": "2012",
-        "categories": [
-            "Outdoor movie theater"
-        ],
-        "avg_rating": 4.7,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.85,
-        "reasoning": "The name 'Cinema Under The Stars' does not indicate a recognizable franchise brand and suggests a unique, localized outdoor movie experience.",
-        "geom": "0101000020E6100000C638DACCFC4A5DC0673FF78A13604040"
     },
     {
         "id": 16934,
@@ -25875,25 +25913,6 @@
         "confidence": 0.9,
         "reasoning": "The name 'Miguel's Auto Service' does not indicate a recognizable franchise brand and suggests a locally owned auto repair shop.",
         "geom": "0101000020E6100000E88B18D151485DC03AB764B03D5D4040"
-    },
-    {
-        "id": 17087,
-        "name": "Lightning Brewery",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbfba4a850193b:0x851500a08ca197e8?authuser=-1&hl=en&gl=us",
-        "address": "Lightning Brewery, 13200 Kirkham Way STE 106, Poway, CA 92064",
-        "city": "Poway",
-        "zip": 92064,
-        "latitude": 32.9357833,
-        "longitude": -117.0433654,
-        "blockgroup": "170492",
-        "categories": [
-            "Brewery"
-        ],
-        "avg_rating": 4.7,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.85,
-        "reasoning": "The name 'Lightning Brewery' does not indicate a recognizable franchise brand and suggests a local or independent brewery.",
-        "geom": "0101000020E6100000CAB1AB7FC6425DC04CD246BFC7774040"
     },
     {
         "id": 17089,
@@ -27332,25 +27351,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'Yoga Janda' does not appear to be a recognizable franchise brand and suggests a unique, locally-owned yoga studio rather than a chain or franchise.",
         "geom": "0101000020E61000002D3C2F151B525DC0A99B30067B974040"
-    },
-    {
-        "id": 18049,
-        "name": "Kohl's",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc73d940139d47:0x401b71567a0d7dce?authuser=-1&hl=en&gl=us",
-        "address": "Kohl's, 3410 Marron Rd, Oceanside, CA 92056",
-        "city": "Oceanside",
-        "zip": 92056,
-        "latitude": 33.179176399999996,
-        "longitude": -117.2983426,
-        "blockgroup": "198031",
-        "categories": [
-            "Department store"
-        ],
-        "avg_rating": 4.2,
-        "franchise": "FRANCHISE",
-        "confidence": 1.0,
-        "reasoning": "Kohl's is a well-known department store chain with multiple locations, indicating it operates as a franchise.",
-        "geom": "0101000020E61000003B808F0B18535DC0851B9540EF964040"
     },
     {
         "id": 18052,
@@ -29977,6 +29977,25 @@
         "geom": "0101000020E6100000EBB1E375334A5DC05BA43FEA655F4040"
     },
     {
+        "id": 19628,
+        "name": "Michael Sirota, MD",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d956f36049ccb3:0xa5661224124502cd?authuser=-1&hl=en&gl=us",
+        "address": "Michael Sirota, MD, 6719 Alvarado Rd Ste. 200, San Diego, CA 92120",
+        "city": "San Diego",
+        "zip": 92120,
+        "latitude": 32.7760667,
+        "longitude": -117.05416559999999,
+        "blockgroup": "29053",
+        "categories": [
+            "Orthopedic surgeon"
+        ],
+        "avg_rating": 4.6,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.9,
+        "reasoning": "The business name suggests a single practitioner, likely operating independently as a medical professional rather than as part of a franchise.",
+        "geom": "0101000020E61000005D24FE7277435DC0E001542756634040"
+    },
+    {
         "id": 19453,
         "name": "Pathway Innovations and Technologies, Inc",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dc07690394075d:0xdbc41783cf76b2c8?authuser=-1&hl=en&gl=us",
@@ -30268,25 +30287,6 @@
         "confidence": 0.9,
         "reasoning": "The name 'Samtech Automotive' does not indicate a recognizable franchise brand and is likely a local independent auto repair shop.",
         "geom": "0101000020E6100000CC94D6DF12475DC0721E04D31F8F4040"
-    },
-    {
-        "id": 19628,
-        "name": "Michael Sirota, MD",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d956f36049ccb3:0xa5661224124502cd?authuser=-1&hl=en&gl=us",
-        "address": "Michael Sirota, MD, 6719 Alvarado Rd Ste. 200, San Diego, CA 92120",
-        "city": "San Diego",
-        "zip": 92120,
-        "latitude": 32.7760667,
-        "longitude": -117.05416559999999,
-        "blockgroup": "29053",
-        "categories": [
-            "Orthopedic surgeon"
-        ],
-        "avg_rating": 4.6,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.9,
-        "reasoning": "The business name suggests a single practitioner, likely operating independently as a medical professional rather than as part of a franchise.",
-        "geom": "0101000020E61000005D24FE7277435DC0E001542756634040"
     },
     {
         "id": 19633,
@@ -31916,6 +31916,25 @@
         "geom": "0101000020E610000067A1534692465DC04F0DEA1159594040"
     },
     {
+        "id": 20864,
+        "name": "del sol pavers",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d959749ace8607:0x678f2c41cad0d450?authuser=-1&hl=en&gl=us",
+        "address": "del sol pavers, 9925 Prospect Ave suite D, Santee, CA 92071",
+        "city": "Santee",
+        "zip": 92071,
+        "latitude": 32.8305047,
+        "longitude": -116.9808501,
+        "blockgroup": "162021",
+        "categories": [
+            "Tool rental service"
+        ],
+        "avg_rating": 5.0,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.9,
+        "reasoning": "The name 'del sol pavers' does not indicate a recognizable franchise brand and appears to be a local business specializing in paver services, which is typical for independent companies.",
+        "geom": "0101000020E6100000D0717F3FC63E5DC04FD65EFA4D6A4040"
+    },
+    {
         "id": 20686,
         "name": "Aramsco (formerly Interlink Supply)",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbff8378280a73:0x7fbcc46593c3231b?authuser=-1&hl=en&gl=us",
@@ -32187,25 +32206,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'Living Water Santee' does not indicate a recognizable franchise brand and suggests a local business focused on drinking water services.",
         "geom": "0101000020E61000009B5D5210173F5DC029B16B7BBB6B4040"
-    },
-    {
-        "id": 20864,
-        "name": "del sol pavers",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d959749ace8607:0x678f2c41cad0d450?authuser=-1&hl=en&gl=us",
-        "address": "del sol pavers, 9925 Prospect Ave suite D, Santee, CA 92071",
-        "city": "Santee",
-        "zip": 92071,
-        "latitude": 32.8305047,
-        "longitude": -116.9808501,
-        "blockgroup": "162021",
-        "categories": [
-            "Tool rental service"
-        ],
-        "avg_rating": 5.0,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.9,
-        "reasoning": "The name 'del sol pavers' does not indicate a recognizable franchise brand and appears to be a local business specializing in paver services, which is typical for independent companies.",
-        "geom": "0101000020E6100000D0717F3FC63E5DC04FD65EFA4D6A4040"
     },
     {
         "id": 20869,
@@ -32766,6 +32766,25 @@
         "geom": "0101000020E6100000600AC50CC3465DC007D7378B728F4040"
     },
     {
+        "id": 21300,
+        "name": "Zerorez Carpet Cleaning",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf15554121325:0x372ee0da2beeb3a4?authuser=-1&hl=en&gl=us",
+        "address": "Zerorez Carpet Cleaning, 4080 Centre St Suite 207 (12, San Diego, CA 92103",
+        "city": "San Diego",
+        "zip": 92103,
+        "latitude": 32.7521457,
+        "longitude": -117.1469218,
+        "blockgroup": "6003",
+        "categories": [
+            "Carpet cleaning service"
+        ],
+        "avg_rating": 4.9,
+        "franchise": "FRANCHISE",
+        "confidence": 0.9,
+        "reasoning": "Zerorez is a recognizable brand known for its carpet cleaning services, indicating it operates as a franchise.",
+        "geom": "0101000020E61000007284B12A67495DC0DCA96F4F46604040"
+    },
+    {
         "id": 21126,
         "name": "The Shop: Pizza + Cocktails",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf16d068ba687:0xdfb88cc9b0ad1820?authuser=-1&hl=en&gl=us",
@@ -33056,25 +33075,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'Precision Garage Door' suggests a recognizable brand that operates in multiple locations, indicating it is likely a franchise.",
         "geom": "0101000020E6100000CF02A3810E4A5DC0612BB2E77C714040"
-    },
-    {
-        "id": 21300,
-        "name": "Zerorez Carpet Cleaning",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80dbf15554121325:0x372ee0da2beeb3a4?authuser=-1&hl=en&gl=us",
-        "address": "Zerorez Carpet Cleaning, 4080 Centre St Suite 207 (12, San Diego, CA 92103",
-        "city": "San Diego",
-        "zip": 92103,
-        "latitude": 32.7521457,
-        "longitude": -117.1469218,
-        "blockgroup": "6003",
-        "categories": [
-            "Carpet cleaning service"
-        ],
-        "avg_rating": 4.9,
-        "franchise": "FRANCHISE",
-        "confidence": 0.9,
-        "reasoning": "Zerorez is a recognizable brand known for its carpet cleaning services, indicating it operates as a franchise.",
-        "geom": "0101000020E61000007284B12A67495DC0DCA96F4F46604040"
     },
     {
         "id": 21309,
@@ -38459,6 +38459,25 @@
         "geom": "0101000020E6100000A217FF8870465DC0E8D84125AE604040"
     },
     {
+        "id": 25455,
+        "name": "TapRoom Beer Company",
+        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d955e7a5f5b79d:0x13db0c4cadfe334a?authuser=-1&hl=en&gl",
+        "address": "TapRoom Beer Company, 2000 El Cajon Blvd, San Diego, CA 92104",
+        "city": "San Diego",
+        "zip": 92104,
+        "latitude": 32.7555154,
+        "longitude": -117.1435928,
+        "blockgroup": "10004",
+        "categories": [
+            "Brewpub"
+        ],
+        "avg_rating": 4.7,
+        "franchise": "INDEPENDENT",
+        "confidence": 0.85,
+        "reasoning": "The name 'TapRoom Beer Company' does not indicate a recognizable franchise brand and suggests a unique, local brewpub likely operating independently.",
+        "geom": "0101000020E61000003AFCDA9F30495DC0EB4F87BAB4604040"
+    },
+    {
         "id": 24740,
         "name": "Express Cellular",
         "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d958338714cbc3:0xfa6e006a5ed48e6d?authuser=-1&hl=en&gl=us",
@@ -39599,25 +39618,6 @@
         "confidence": 0.85,
         "reasoning": "The name 'Mission Gallery Antiques' does not indicate a recognizable franchise brand and suggests a unique, locally owned business focused on antiques and art.",
         "geom": "0101000020E61000007974232CAA4A5DC0BC4681F403604040"
-    },
-    {
-        "id": 25455,
-        "name": "TapRoom Beer Company",
-        "url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x80d955e7a5f5b79d:0x13db0c4cadfe334a?authuser=-1&hl=en&gl",
-        "address": "TapRoom Beer Company, 2000 El Cajon Blvd, San Diego, CA 92104",
-        "city": "San Diego",
-        "zip": 92104,
-        "latitude": 32.7555154,
-        "longitude": -117.1435928,
-        "blockgroup": "10004",
-        "categories": [
-            "Brewpub"
-        ],
-        "avg_rating": 4.7,
-        "franchise": "INDEPENDENT",
-        "confidence": 0.85,
-        "reasoning": "The name 'TapRoom Beer Company' does not indicate a recognizable franchise brand and suggests a unique, local brewpub likely operating independently.",
-        "geom": "0101000020E61000003AFCDA9F30495DC0EB4F87BAB4604040"
     },
     {
         "id": 25458,
