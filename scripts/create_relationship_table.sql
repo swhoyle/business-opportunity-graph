@@ -136,4 +136,7 @@ UNION
         blockgroup::TEXT AS entity2,
         'blockgroup' AS entityType2
     FROM entity_business
-)
+);
+
+-- Grant Access
+GRANT ALL PRIVILEGES ON TABLE entity_relationships TO swhoyle, fahaque, isgonzal, fchavezsosa;
