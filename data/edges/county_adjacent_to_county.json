@@ -1,0 +1,37 @@
+[
+  {
+    "entity1":13,
+    "entitytype1":"County",
+    "predicate":"ADJACENT_TO",
+    "entity2":33,
+    "entitytype2":"County"
+  },
+  {
+    "entity1":13,
+    "entitytype1":"County",
+    "predicate":"ADJACENT_TO",
+    "entity2":37,
+    "entitytype2":"County"
+  },
+  {
+    "entity1":37,
+    "entitytype1":"County",
+    "predicate":"ADJACENT_TO",
+    "entity2":13,
+    "entitytype2":"County"
+  },
+  {
+    "entity1":37,
+    "entitytype1":"County",
+    "predicate":"ADJACENT_TO",
+    "entity2":30,
+    "entitytype2":"County"
+  },
+  {
+    "entity1":37,
+    "entitytype1":"County",
+    "predicate":"ADJACENT_TO",
+    "entity2":33,
+    "entitytype2":"County"
+  }
+]

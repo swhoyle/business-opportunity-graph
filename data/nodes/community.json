@@ -1,0 +1,918 @@
+[
+  {
+    "id":60,
+    "name":"Midtown"
+  },
+  {
+    "id":55,
+    "name":"Linda Vista"
+  },
+  {
+    "id":284,
+    "name":"Eastlake Trails"
+  },
+  {
+    "id":285,
+    "name":"Eastlake Vistas"
+  },
+  {
+    "id":283,
+    "name":"Eastlake Land Swap"
+  },
+  {
+    "id":286,
+    "name":"Eastlake Woods"
+  },
+  {
+    "id":287,
+    "name":"Eastlake Woods West"
+  },
+  {
+    "id":290,
+    "name":"Lynwood Hills"
+  },
+  {
+    "id":292,
+    "name":"Ocean Crest"
+  },
+  {
+    "id":297,
+    "name":"Otay Ranch Village 1"
+  },
+  {
+    "id":293,
+    "name":"Olympic Training Center"
+  },
+  {
+    "id":295,
+    "name":"Otay   Ranch"
+  },
+  {
+    "id":298,
+    "name":"Otay Ranch Village 5"
+  },
+  {
+    "id":304,
+    "name":"San Miguel Ranch"
+  },
+  {
+    "id":5,
+    "name":"Azalea-Hollywood Park"
+  },
+  {
+    "id":299,
+    "name":"Palm City"
+  },
+  {
+    "id":305,
+    "name":"Southwest"
+  },
+  {
+    "id":365,
+    "name":"North Island Naval Air Station"
+  },
+  {
+    "id":72,
+    "name":"Mt. Hope"
+  },
+  {
+    "id":26,
+    "name":"Core-Columbia"
+  },
+  {
+    "id":13,
+    "name":"Border"
+  },
+  {
+    "id":48,
+    "name":"Jomacha-Lomita"
+  },
+  {
+    "id":364,
+    "name":"Marina"
+  },
+  {
+    "id":97,
+    "name":"Roseville - Fleet Ridge"
+  },
+  {
+    "id":370,
+    "name":"Del Mar Heights"
+  },
+  {
+    "id":95,
+    "name":"Ridgeview-Webster"
+  },
+  {
+    "id":256,
+    "name":"Rancho Bernardo"
+  },
+  {
+    "id":253,
+    "name":"Mission Grove"
+  },
+  {
+    "id":371,
+    "name":"North City"
+  },
+  {
+    "id":252,
+    "name":"Los Arboles"
+  },
+  {
+    "id":259,
+    "name":"South Tulip"
+  },
+  {
+    "id":261,
+    "name":"WIN"
+  },
+  {
+    "id":260,
+    "name":"Westside Hillside"
+  },
+  {
+    "id":451,
+    "name":"Egger Highlands"
+  },
+  {
+    "id":258,
+    "name":"San Pasqual"
+  },
+  {
+    "id":267,
+    "name":"Lake Murray"
+  },
+  {
+    "id":270,
+    "name":"San Carlos"
+  },
+  {
+    "id":380,
+    "name":"Encanto"
+  },
+  {
+    "id":382,
+    "name":"Oak Park"
+  },
+  {
+    "id":377,
+    "name":"Bay Terraces"
+  },
+  {
+    "id":381,
+    "name":"Jomacha Lomita"
+  },
+  {
+    "id":391,
+    "name":"Alta Vista"
+  },
+  {
+    "id":392,
+    "name":"Central"
+  },
+  {
+    "id":379,
+    "name":"Terra Nova"
+  },
+  {
+    "id":378,
+    "name":"Paradise Hills"
+  },
+  {
+    "id":77,
+    "name":"North Island Naval Air Station"
+  },
+  {
+    "id":394,
+    "name":"Granger"
+  },
+  {
+    "id":459,
+    "name":"Skyline"
+  },
+  {
+    "id":458,
+    "name":"Jomacha Lomita"
+  },
+  {
+    "id":328,
+    "name":"Barrio"
+  },
+  {
+    "id":393,
+    "name":"Eastside"
+  },
+  {
+    "id":398,
+    "name":"Oldtown"
+  },
+  {
+    "id":329,
+    "name":"Bressi Ranch"
+  },
+  {
+    "id":327,
+    "name":"Aviara"
+  },
+  {
+    "id":395,
+    "name":"Mountain View"
+  },
+  {
+    "id":399,
+    "name":"Olivewood"
+  },
+  {
+    "id":396,
+    "name":"Northside"
+  },
+  {
+    "id":389,
+    "name":"Northwest"
+  },
+  {
+    "id":332,
+    "name":"Hedionda Point"
+  },
+  {
+    "id":400,
+    "name":"Paradise Hills"
+  },
+  {
+    "id":331,
+    "name":"Carlsbad Ranch"
+  },
+  {
+    "id":414,
+    "name":"South Port Bussiness Center"
+  },
+  {
+    "id":390,
+    "name":"Southwest"
+  },
+  {
+    "id":333,
+    "name":"Kelly Ranch"
+  },
+  {
+    "id":334,
+    "name":"La Costa Greens"
+  },
+  {
+    "id":340,
+    "name":"Rancho Carrillo"
+  },
+  {
+    "id":337,
+    "name":"North Beach"
+  },
+  {
+    "id":339,
+    "name":"Poinsettia"
+  },
+  {
+    "id":342,
+    "name":"Robertson Ranch"
+  },
+  {
+    "id":417,
+    "name":"Olde Carlsbad"
+  },
+  {
+    "id":278,
+    "name":"Amphitheater and Water Park"
+  },
+  {
+    "id":416,
+    "name":"Calavera Hills"
+  },
+  {
+    "id":279,
+    "name":"Bella Lago"
+  },
+  {
+    "id":280,
+    "name":"Bonita Long Canyon"
+  },
+  {
+    "id":320,
+    "name":"Golf Course"
+  },
+  {
+    "id":2,
+    "name":"Allied Gardens"
+  },
+  {
+    "id":4,
+    "name":"Amphitheater and Water Park"
+  },
+  {
+    "id":14,
+    "name":"Burlingame"
+  },
+  {
+    "id":20,
+    "name":"Chollas View"
+  },
+  {
+    "id":19,
+    "name":"Chollas Creek"
+  },
+  {
+    "id":29,
+    "name":"Del Cerro"
+  },
+  {
+    "id":35,
+    "name":"Emerald Hills"
+  },
+  {
+    "id":45,
+    "name":"Hillcrest"
+  },
+  {
+    "id":40,
+    "name":"Gaslamp Quarter"
+  },
+  {
+    "id":42,
+    "name":"Grant Hill"
+  },
+  {
+    "id":38,
+    "name":"Fairmount Village"
+  },
+  {
+    "id":39,
+    "name":"Fox Canyon"
+  },
+  {
+    "id":44,
+    "name":"Harborview"
+  },
+  {
+    "id":46,
+    "name":"Horton Plaza"
+  },
+  {
+    "id":52,
+    "name":"La Playa"
+  },
+  {
+    "id":47,
+    "name":"Islenair"
+  },
+  {
+    "id":66,
+    "name":"Mission Beach"
+  },
+  {
+    "id":300,
+    "name":"Paseo Ranchoero"
+  },
+  {
+    "id":301,
+    "name":"Rancho Del Rey I"
+  },
+  {
+    "id":302,
+    "name":"Rancho Del Rey II"
+  },
+  {
+    "id":307,
+    "name":"Sunbow II"
+  },
+  {
+    "id":308,
+    "name":"Terra Nova"
+  },
+  {
+    "id":306,
+    "name":"Sunbow I"
+  },
+  {
+    "id":326,
+    "name":"Village Center"
+  },
+  {
+    "id":303,
+    "name":"Rolling Hills Ranch"
+  },
+  {
+    "id":254,
+    "name":"Old Escondido Historic District"
+  },
+  {
+    "id":255,
+    "name":"Park Place"
+  },
+  {
+    "id":257,
+    "name":"Rustic"
+  },
+  {
+    "id":251,
+    "name":"Hickory"
+  },
+  {
+    "id":82,
+    "name":"Ocean Crest"
+  },
+  {
+    "id":81,
+    "name":"Ocean Beach"
+  },
+  {
+    "id":105,
+    "name":"Sherman Heights"
+  },
+  {
+    "id":104,
+    "name":"Shelltown"
+  },
+  {
+    "id":109,
+    "name":"Southcrest"
+  },
+  {
+    "id":112,
+    "name":"Sunset Cliffs"
+  },
+  {
+    "id":116,
+    "name":"Teralta West"
+  },
+  {
+    "id":111,
+    "name":"Stockton"
+  },
+  {
+    "id":113,
+    "name":"Swan Canyon"
+  },
+  {
+    "id":338,
+    "name":"Olde Carlsbad"
+  },
+  {
+    "id":336,
+    "name":"La Costa Ridge"
+  },
+  {
+    "id":335,
+    "name":"La Costa Oaks"
+  },
+  {
+    "id":330,
+    "name":"Calavera Hills"
+  },
+  {
+    "id":344,
+    "name":"Sunny Creek"
+  },
+  {
+    "id":341,
+    "name":"Rancho La Costa"
+  },
+  {
+    "id":288,
+    "name":"Egger Highlands"
+  },
+  {
+    "id":343,
+    "name":"South Beach"
+  },
+  {
+    "id":345,
+    "name":"Tamarack Point"
+  },
+  {
+    "id":346,
+    "name":"Village"
+  },
+  {
+    "id":282,
+    "name":"East Lake I"
+  },
+  {
+    "id":281,
+    "name":"Eastlake Greens"
+  },
+  {
+    "id":296,
+    "name":"Otay Ranch"
+  },
+  {
+    "id":294,
+    "name":"Otay Mesa West"
+  },
+  {
+    "id":289,
+    "name":"Fenton St"
+  },
+  {
+    "id":291,
+    "name":"Northwest"
+  },
+  {
+    "id":453,
+    "name":"Tijuana River Valley"
+  },
+  {
+    "id":268,
+    "name":"College East"
+  },
+  {
+    "id":418,
+    "name":"Tamarack Point"
+  },
+  {
+    "id":429,
+    "name":"Carmel Mountain"
+  },
+  {
+    "id":428,
+    "name":"Rancho Bernardo"
+  },
+  {
+    "id":419,
+    "name":"Village"
+  },
+  {
+    "id":432,
+    "name":"Sabre Springs"
+  },
+  {
+    "id":431,
+    "name":"Rancho Encantado"
+  },
+  {
+    "id":9,
+    "name":"Bay Park"
+  },
+  {
+    "id":1,
+    "name":"Adams North"
+  },
+  {
+    "id":12,
+    "name":"Black Mountain Ranch"
+  },
+  {
+    "id":3,
+    "name":"Alta Vista"
+  },
+  {
+    "id":7,
+    "name":"Barrio Logan"
+  },
+  {
+    "id":10,
+    "name":"Bay Terraces"
+  },
+  {
+    "id":6,
+    "name":"Balboa Park"
+  },
+  {
+    "id":8,
+    "name":"Bay Ho"
+  },
+  {
+    "id":11,
+    "name":"Bird Land"
+  },
+  {
+    "id":15,
+    "name":"Carmel Mountain"
+  },
+  {
+    "id":21,
+    "name":"Clairemont Mesa East"
+  },
+  {
+    "id":23,
+    "name":"Colina del Sol"
+  },
+  {
+    "id":17,
+    "name":"Castle"
+  },
+  {
+    "id":24,
+    "name":"College East"
+  },
+  {
+    "id":18,
+    "name":"Cherokee Point"
+  },
+  {
+    "id":22,
+    "name":"Clairemont Mesa West"
+  },
+  {
+    "id":16,
+    "name":"Carmel Valley"
+  },
+  {
+    "id":25,
+    "name":"College West"
+  },
+  {
+    "id":33,
+    "name":"Egger Highlands"
+  },
+  {
+    "id":27,
+    "name":"Corridor"
+  },
+  {
+    "id":30,
+    "name":"Del Mar Heights"
+  },
+  {
+    "id":36,
+    "name":"Encanto"
+  },
+  {
+    "id":28,
+    "name":"Cortez Hill"
+  },
+  {
+    "id":31,
+    "name":"East Village"
+  },
+  {
+    "id":32,
+    "name":"Eastside"
+  },
+  {
+    "id":34,
+    "name":"El Cerrito"
+  },
+  {
+    "id":50,
+    "name":"Kensington"
+  },
+  {
+    "id":37,
+    "name":"Fairmount Park"
+  },
+  {
+    "id":53,
+    "name":"Lake Murray"
+  },
+  {
+    "id":51,
+    "name":"La Jolla"
+  },
+  {
+    "id":49,
+    "name":"Kearny Mesa"
+  },
+  {
+    "id":54,
+    "name":"Lincoln Park"
+  },
+  {
+    "id":41,
+    "name":"Golden Hill"
+  },
+  {
+    "id":43,
+    "name":"Grantville"
+  },
+  {
+    "id":56,
+    "name":"Little Italy"
+  },
+  {
+    "id":62,
+    "name":"Mira Mesa"
+  },
+  {
+    "id":59,
+    "name":"Marina"
+  },
+  {
+    "id":61,
+    "name":"Midway District"
+  },
+  {
+    "id":57,
+    "name":"Logan Heights"
+  },
+  {
+    "id":63,
+    "name":"Miramar"
+  },
+  {
+    "id":64,
+    "name":"Miramar Ranch North"
+  },
+  {
+    "id":58,
+    "name":"Loma Portal"
+  },
+  {
+    "id":70,
+    "name":"Morena"
+  },
+  {
+    "id":69,
+    "name":"Mission Valley West"
+  },
+  {
+    "id":68,
+    "name":"Mission Valley East"
+  },
+  {
+    "id":67,
+    "name":"Mission Hills"
+  },
+  {
+    "id":65,
+    "name":"Mission Bay Park"
+  },
+  {
+    "id":74,
+    "name":"Normal Heights"
+  },
+  {
+    "id":73,
+    "name":"Nestor"
+  },
+  {
+    "id":71,
+    "name":"Mountain View"
+  },
+  {
+    "id":76,
+    "name":"North Clairemont"
+  },
+  {
+    "id":83,
+    "name":"Old Town"
+  },
+  {
+    "id":85,
+    "name":"Otay Mesa West"
+  },
+  {
+    "id":79,
+    "name":"Northside"
+  },
+  {
+    "id":86,
+    "name":"Pacific Beach"
+  },
+  {
+    "id":80,
+    "name":"Oak Park"
+  },
+  {
+    "id":84,
+    "name":"Otay Mesa"
+  },
+  {
+    "id":78,
+    "name":"North Park"
+  },
+  {
+    "id":75,
+    "name":"North City"
+  },
+  {
+    "id":88,
+    "name":"Paradise Hills"
+  },
+  {
+    "id":87,
+    "name":"Palm City"
+  },
+  {
+    "id":91,
+    "name":"Rancho Bernardo"
+  },
+  {
+    "id":90,
+    "name":"Point Loma Heights"
+  },
+  {
+    "id":89,
+    "name":"Park West"
+  },
+  {
+    "id":94,
+    "name":"Redwood Village"
+  },
+  {
+    "id":93,
+    "name":"Rancho Penasquitos"
+  },
+  {
+    "id":92,
+    "name":"Rancho Encantado"
+  },
+  {
+    "id":103,
+    "name":"Serra Mesa"
+  },
+  {
+    "id":96,
+    "name":"Rolando"
+  },
+  {
+    "id":99,
+    "name":"San Carlos"
+  },
+  {
+    "id":106,
+    "name":"Skyline"
+  },
+  {
+    "id":100,
+    "name":"San Pasqual"
+  },
+  {
+    "id":98,
+    "name":"Sabre Springs"
+  },
+  {
+    "id":107,
+    "name":"Sorrento Valley"
+  },
+  {
+    "id":102,
+    "name":"Scripps Ranch"
+  },
+  {
+    "id":101,
+    "name":"San Ysidro"
+  },
+  {
+    "id":110,
+    "name":"Southwest"
+  },
+  {
+    "id":118,
+    "name":"Tijuana River Valley"
+  },
+  {
+    "id":117,
+    "name":"Tierrasanta"
+  },
+  {
+    "id":114,
+    "name":"Talmadge"
+  },
+  {
+    "id":121,
+    "name":"Torrey Preserve"
+  },
+  {
+    "id":120,
+    "name":"Torrey Pines"
+  },
+  {
+    "id":115,
+    "name":"Teralta East"
+  },
+  {
+    "id":108,
+    "name":"South Park"
+  },
+  {
+    "id":119,
+    "name":"Torrey Highlands"
+  },
+  {
+    "id":442,
+    "name":"La Costa Ridge"
+  },
+  {
+    "id":124,
+    "name":"Valencia Park"
+  },
+  {
+    "id":441,
+    "name":"La Costa Oaks"
+  },
+  {
+    "id":443,
+    "name":"Rancho La Costa"
+  },
+  {
+    "id":125,
+    "name":"Wooded Area"
+  },
+  {
+    "id":122,
+    "name":"University City"
+  },
+  {
+    "id":123,
+    "name":"University Heights"
+  }
+]
