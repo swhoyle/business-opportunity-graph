@@ -1,0 +1,492 @@
+[
+  {
+    "id": "54841",
+    "name": "Devine Pastabilities",
+    "street": "3545 Midway Dr E",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92110",
+    "main_category": "Food & Drink",
+    "sub_category": "Italian Restaurant"
+  },
+  {
+    "id": "54855",
+    "name": "Serenity Shop",
+    "street": "4740 Clairemont Mesa Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92117",
+    "main_category": "Retail",
+    "sub_category": "Gift Shop"
+  },
+  {
+    "id": "54869",
+    "name": "Prepkitchen",
+    "street": "1660 India St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "main_category": "Food & Drink",
+    "sub_category": "American Restaurant"
+  },
+  {
+    "id": "54873",
+    "name": "Citibank",
+    "street": "3295 Palm Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92154",
+    "main_category": "Finance & Insurance",
+    "sub_category": "ATM"
+  },
+  {
+    "id": "54874",
+    "name": "Balboa Pharmacy",
+    "street": "6465 Balboa Ave #101",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92111",
+    "main_category": "Healthcare & Medical",
+    "sub_category": "Pharmacy"
+  },
+  {
+    "id": "54877",
+    "name": "The Little Yoga Studio",
+    "street": "702 Ash St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "main_category": "Arts, Entertainment & Recreation",
+    "sub_category": "Yoga Studio"
+  },
+  {
+    "id": "54910",
+    "name": "Learn To Fly",
+    "street": "8690 Aero Dr Ste 116",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92123",
+    "main_category": "Education & Childcare",
+    "sub_category": "Flight School"
+  },
+  {
+    "id": "54952",
+    "name": "Mission Valley VA Clinic",
+    "street": "8810 Rio San Diego Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92108",
+    "main_category": "Healthcare & Medical",
+    "sub_category": "Medical Clinic"
+  },
+  {
+    "id": "54955",
+    "name": "Cafe X",
+    "street": "7220 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92115",
+    "main_category": "Food & Drink",
+    "sub_category": "Cafe"
+  },
+  {
+    "id": "54988",
+    "name": "Sam's Club",
+    "street": "6336 College Grove Way",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92115",
+    "main_category": "Food & Drink",
+    "sub_category": "Bakery"
+  },
+  {
+    "id": "55049",
+    "name": "Vapure USA",
+    "street": "2667 Camino del Rio S #202",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92108",
+    "main_category": "Retail",
+    "sub_category": "Tobacco Shop"
+  },
+  {
+    "id": "55050",
+    "name": "Auntie Helen's",
+    "street": "4127 30th St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92104",
+    "main_category": "Nonprofit & Community Organizations",
+    "sub_category": "Thrift Store"
+  },
+  {
+    "id": "55056",
+    "name": "Activity Business Center",
+    "street": "9520-9530 Padgett St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126",
+    "main_category": "Professional Services",
+    "sub_category": "Business Park"
+  },
+  {
+    "id": "55081",
+    "name": "West Coast Eye Care & Acuity Eye Group",
+    "street": "4344 Convoy St Suite C-2",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92111",
+    "main_category": "Healthcare & Medical",
+    "sub_category": "Optometrist"
+  },
+  {
+    "id": "55127",
+    "name": "Cafe Europe",
+    "street": "6784 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92115",
+    "main_category": "Food & Drink",
+    "sub_category": "Cafe"
+  },
+  {
+    "id": "55198",
+    "name": "MBS Automotive",
+    "street": "3507 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92104",
+    "main_category": "Automotive Services",
+    "sub_category": "Auto Repair"
+  },
+  {
+    "id": "55235",
+    "name": "Tapas & Beers",
+    "street": "926 Broadway Cir",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "main_category": "Food & Drink",
+    "sub_category": "Restaurant"
+  },
+  {
+    "id": "55257",
+    "name": "Captain Frost Marine Refrigeration",
+    "street": "1257 Rosecrans St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92106",
+    "main_category": "Home Services & Contractors",
+    "sub_category": "Air Conditioning Contractor"
+  },
+  {
+    "id": "55336",
+    "name": "Play Area",
+    "street": "",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92128",
+    "main_category": "Arts, Entertainment & Recreation",
+    "sub_category": "Playground"
+  },
+  {
+    "id": "55353",
+    "name": "Mira Mesa Medical Mall",
+    "street": "10737 Camino Ruiz",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126",
+    "main_category": "Retail",
+    "sub_category": "Shopping Mall"
+  },
+  {
+    "id": "55366",
+    "name": "Breakfast Republic",
+    "street": "4465 Mission Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92109",
+    "main_category": "Food & Drink",
+    "sub_category": "Breakfast Restaurant"
+  },
+  {
+    "id": "55378",
+    "name": "JL Intuitive Design",
+    "street": "7343 Ronson Rd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92111",
+    "main_category": "Manufacturing",
+    "sub_category": "Machine Shop"
+  },
+  {
+    "id": "55391",
+    "name": "Rancho Mission Plaza",
+    "street": "10497 San Diego Mission Rd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92108",
+    "main_category": "Retail",
+    "sub_category": "Shopping Mall"
+  },
+  {
+    "id": "55423",
+    "name": "Cabrillo Technologies",
+    "street": "4045 Hancock St #220",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92110",
+    "main_category": "Professional Services",
+    "sub_category": "Engineering Consultant"
+  },
+  {
+    "id": "55432",
+    "name": "Landini's Pizzeria",
+    "street": "1827 India St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "main_category": "Food & Drink",
+    "sub_category": "Pizza Restaurant"
+  },
+  {
+    "id": "55504",
+    "name": "Carl's Jr.",
+    "street": "11050 Rancho Carmel Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92128",
+    "main_category": "Food & Drink",
+    "sub_category": "Fast Food"
+  },
+  {
+    "id": "55580",
+    "name": "Border X Brewing",
+    "street": "2181 Logan Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92113",
+    "main_category": "Food & Drink",
+    "sub_category": "Brewery"
+  },
+  {
+    "id": "55617",
+    "name": "Precious Pet Care",
+    "street": "750 B St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "main_category": "Personal Services",
+    "sub_category": "Pet Sitter"
+  },
+  {
+    "id": "55638",
+    "name": "Fashion Hills Terrace",
+    "street": "2125 Westinghouse St #6625",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92111",
+    "main_category": "Real Estate",
+    "sub_category": "Apartment Complex"
+  },
+  {
+    "id": "55666",
+    "name": "Serpentine Cider",
+    "street": "2311 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92104",
+    "main_category": "Food & Drink",
+    "sub_category": "Cider Bar"
+  },
+  {
+    "id": "55740",
+    "name": "Aramark",
+    "street": "9707 Candida St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126",
+    "main_category": "Food & Drink",
+    "sub_category": "Coffee Service"
+  },
+  {
+    "id": "55771",
+    "name": "Bo's Seafood Market",
+    "street": "1040 University Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103",
+    "main_category": "Food & Drink",
+    "sub_category": "Seafood Market"
+  },
+  {
+    "id": "55805",
+    "name": "California Logistics Group",
+    "street": "9865 Marconi Dr Ste C",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92154",
+    "main_category": "Transportation & Logistics",
+    "sub_category": "Logistics Company"
+  },
+  {
+    "id": "55827",
+    "name": "West Sea",
+    "street": "2495 Congress St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92110",
+    "main_category": "Retail",
+    "sub_category": "Antique Store"
+  },
+  {
+    "id": "55830",
+    "name": "Friendship Hotel",
+    "street": "3942 8th Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103",
+    "main_category": "Hospitality & Lodging",
+    "sub_category": "Hotel"
+  },
+  {
+    "id": "55877",
+    "name": "Marston House",
+    "street": "",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103",
+    "main_category": "Arts, Entertainment & Recreation",
+    "sub_category": "Historical Landmark"
+  },
+  {
+    "id": "56058",
+    "name": "PB Cantina",
+    "street": "1466 Garnet Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92109",
+    "main_category": "Food & Drink",
+    "sub_category": "Mexican Restaurant"
+  },
+  {
+    "id": "56109",
+    "name": "Vans",
+    "street": "740 Hornblend St Suite 103",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92109",
+    "main_category": "Retail",
+    "sub_category": "Shoe Store"
+  },
+  {
+    "id": "56130",
+    "name": "Hyve Technologies",
+    "street": "4905 Morena Blvd Ste 1309",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92117",
+    "main_category": "Manufacturing",
+    "sub_category": "Machine Shop"
+  },
+  {
+    "id": "56187",
+    "name": "Goi Cuon",
+    "street": "420 Robinson Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103",
+    "main_category": "Food & Drink",
+    "sub_category": "Restaurant"
+  },
+  {
+    "id": "56193",
+    "name": "La Jolla Cleaners",
+    "street": "8508 Genesee Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92122",
+    "main_category": "Personal Services",
+    "sub_category": "Dry Cleaner"
+  },
+  {
+    "id": "56197",
+    "name": "California DMV Now",
+    "street": "4375 Derrick Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92117",
+    "main_category": "Government & Public Services",
+    "sub_category": "Department of Motor Vehicles"
+  },
+  {
+    "id": "56199",
+    "name": "ARCO",
+    "street": "1902 Sunset Cliffs Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92107",
+    "main_category": "Automotive Services",
+    "sub_category": "Gas Station"
+  },
+  {
+    "id": "56212",
+    "name": "Chiquibaby's Bar",
+    "street": "317 Dewey St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92113",
+    "main_category": "Food & Drink",
+    "sub_category": "Bar"
+  },
+  {
+    "id": "56241",
+    "name": "Golden Hill Park",
+    "street": "2590-2596 Golden Hill Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92102",
+    "main_category": "Arts, Entertainment & Recreation",
+    "sub_category": "Park"
+  },
+  {
+    "id": "56261",
+    "name": "Andrew J. Demeyer",
+    "street": "4707 Mission Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92109",
+    "main_category": "Healthcare & Medical",
+    "sub_category": "Dentist"
+  },
+  {
+    "id": "56269",
+    "name": "South Coast Yachts",
+    "street": "955 Harbor Island Dr Suite 140",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "main_category": "Professional Services",
+    "sub_category": "Yacht Broker"
+  },
+  {
+    "id": "56283",
+    "name": "Expo Propane",
+    "street": "3650 Kettner Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "main_category": "Energy & Utilities",
+    "sub_category": "Propane Supplier"
+  },
+  {
+    "id": "56287",
+    "name": "Corner Cafe",
+    "street": "3614 Fifth Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103",
+    "main_category": "Food & Drink",
+    "sub_category": "Chinese Restaurant"
+  }
+]
