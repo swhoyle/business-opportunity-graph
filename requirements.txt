@@ -11,3 +11,8 @@ cenpy
 rasterio
 contextily
 scikit-learn
+branca
+folium
+matplotlib
+mapclassify
+pointpats
