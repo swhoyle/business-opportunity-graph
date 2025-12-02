@@ -7,7 +7,7 @@ psycopg2-binary
 neo4j
 python-dotenv
 osmnx
-cenpy
+cenpy@git+https://github.com/cenpy-devs/cenpy.git
 rasterio
 contextily
 scikit-learn
