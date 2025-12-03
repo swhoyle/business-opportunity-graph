@@ -16,3 +16,4 @@ folium
 matplotlib
 mapclassify
 pointpats
+duckdb
