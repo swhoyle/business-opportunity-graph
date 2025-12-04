@@ -1,1 +1,8 @@
 .env
+test_neo4j.py
+Dockerfile
+docker_compose.yml
+run_notebooks.sh
+neo4j_data
+output_*.ipynb
+notebooks/output_*.ipynb

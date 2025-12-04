@@ -1,0 +1,25 @@
+services:
+  neo4j-local:
+    image: neo4j:5.21
+    container_name: neo4j-local
+    environment:
+      - NEO4J_AUTH=neo4j/admin123
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - ./neo4j_data:/data
+      - ./data:/var/lib/neo4j/import
+
+  notebooks:
+    build: .
+    container_name: notebooks-local
+    depends_on:
+      - neo4j-local
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./data:/home/jovyan/data
+      - ./notebooks:/home/jovyan/notebooks
+      - ./docs:/home/jovyan/docs
+      - ./.env:/home/jovyan/.env

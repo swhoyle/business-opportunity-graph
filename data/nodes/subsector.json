@@ -1,0 +1,182 @@
+[
+  {
+    "id":1,
+    "name":"Miscellaneous"
+  },
+  {
+    "id":2,
+    "name":"Sports & Recreation"
+  },
+  {
+    "id":3,
+    "name":"Health & Beauty"
+  },
+  {
+    "id":4,
+    "name":"Specialty Food"
+  },
+  {
+    "id":5,
+    "name":"Bars & Nightlife"
+  },
+  {
+    "id":6,
+    "name":"General Merchandise"
+  },
+  {
+    "id":7,
+    "name":"Repair & Maintenance"
+  },
+  {
+    "id":8,
+    "name":"Fast Food"
+  },
+  {
+    "id":9,
+    "name":"Restaurants"
+  },
+  {
+    "id":10,
+    "name":"Construction & Contractors"
+  },
+  {
+    "id":11,
+    "name":"Arts & Entertainment"
+  },
+  {
+    "id":12,
+    "name":"Automotive Retail"
+  },
+  {
+    "id":13,
+    "name":"Childcare"
+  },
+  {
+    "id":14,
+    "name":"Car Wash & Detailing"
+  },
+  {
+    "id":15,
+    "name":"Specialized Healthcare"
+  },
+  {
+    "id":16,
+    "name":"Coffee & Tea"
+  },
+  {
+    "id":17,
+    "name":"Pharmacy"
+  },
+  {
+    "id":18,
+    "name":"Bakery & Desserts"
+  },
+  {
+    "id":19,
+    "name":"Medical Offices"
+  },
+  {
+    "id":20,
+    "name":"Legal Services"
+  },
+  {
+    "id":21,
+    "name":"Hotels & Motels"
+  },
+  {
+    "id":22,
+    "name":"Business Services"
+  },
+  {
+    "id":23,
+    "name":"Telecommunications"
+  },
+  {
+    "id":24,
+    "name":"Specialty Retail"
+  },
+  {
+    "id":25,
+    "name":"Pet Services"
+  },
+  {
+    "id":26,
+    "name":"Events & Venues"
+  },
+  {
+    "id":27,
+    "name":"Clothing & Apparel"
+  },
+  {
+    "id":28,
+    "name":"Consulting"
+  },
+  {
+    "id":29,
+    "name":"Schools"
+  },
+  {
+    "id":30,
+    "name":"Financial Services"
+  },
+  {
+    "id":31,
+    "name":"Towing & Roadside"
+  },
+  {
+    "id":32,
+    "name":"Mental Health"
+  },
+  {
+    "id":33,
+    "name":"Plumbing & HVAC"
+  },
+  {
+    "id":34,
+    "name":"Cleaning Services"
+  },
+  {
+    "id":35,
+    "name":"Landscaping"
+  },
+  {
+    "id":36,
+    "name":"Fitness & Recreation"
+  },
+  {
+    "id":37,
+    "name":"Home & Garden"
+  },
+  {
+    "id":38,
+    "name":"Real Estate"
+  },
+  {
+    "id":39,
+    "name":"IT Services"
+  },
+  {
+    "id":40,
+    "name":"Electrical"
+  },
+  {
+    "id":41,
+    "name":"Tutoring"
+  },
+  {
+    "id":42,
+    "name":"Travel Services"
+  },
+  {
+    "id":43,
+    "name":"Dry Cleaning & Laundry"
+  },
+  {
+    "id":44,
+    "name":"Alternative Lodging"
+  },
+  {
+    "id":45,
+    "name":"Accounting"
+  }
+]
