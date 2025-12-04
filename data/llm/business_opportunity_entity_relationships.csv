@@ -1,4 +1,4 @@
-Entity Type 1,Relationship ,Entity Type 2
+Entity Type 1,Relationship,Entity Type 2
 Community ,Contained in,City
 Community,Overlaps,Block Group
 Community ,Overlaps,Zip Code
