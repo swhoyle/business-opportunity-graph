@@ -185,6 +185,13 @@
     "entity1":59,
     "entitytype1":"Community",
     "predicate":"OVERLAPS_WITH",
+    "entity2":107,
+    "entitytype2":"Zipcode"
+  },
+  {
+    "entity1":59,
+    "entitytype1":"Community",
+    "predicate":"OVERLAPS_WITH",
     "entity2":99,
     "entitytype2":"Zipcode"
   },
@@ -2271,6 +2278,13 @@
     "entity1":59,
     "entitytype1":"Community",
     "predicate":"OVERLAPS_WITH",
+    "entity2":107,
+    "entitytype2":"Zipcode"
+  },
+  {
+    "entity1":59,
+    "entitytype1":"Community",
+    "predicate":"OVERLAPS_WITH",
     "entity2":99,
     "entitytype2":"Zipcode"
   },
@@ -2300,6 +2314,13 @@
     "entitytype1":"Community",
     "predicate":"OVERLAPS_WITH",
     "entity2":101,
+    "entitytype2":"Zipcode"
+  },
+  {
+    "entity1":61,
+    "entitytype1":"Community",
+    "predicate":"OVERLAPS_WITH",
+    "entity2":106,
     "entitytype2":"Zipcode"
   },
   {
