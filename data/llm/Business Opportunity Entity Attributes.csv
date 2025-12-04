@@ -1,0 +1,69 @@
+Entity,Attribute,Type,Description
+State,id,integer,Unique identifier for the state.
+State,code,text,Two-letter state abbreviation.
+State,name,text,Full name of the state.
+State,geom,polygon/multipolygon,Geographic boundary of the state.
+City,id,integer,Unique identifier for the city.
+City,name,text,Name of the city.
+City,geom,polygon/multipolygon,Geographic boundary of the city.
+County,id,integer,Unique identifier for the county.
+County,name,text,Name of the county.
+County,geom,polygon/multipolygon,Geographic boundary of the county.
+Zipcode,id,integer,Unique identifier for the ZIP code.
+Zipcode,zipcode,integer,ZIP area code. 
+Community,id,integer,Unique identifier for the community.
+Community,name,text,Name of the community or neighborhood.
+Community,geom,polygon/multipolygon,Geographic boundary of the community.
+Block Group,id,integer,Unique census block group code.
+Block Group,geom,polygon/multipolygon,Geographic boundary of the block group.
+Block Group,n_2027budgetexpenditures,text,Projected budget expenditures for 2027.
+Block Group,n_2021serviceemployees,numeric,Number of service industry employees in 2021.
+Block Group,n_2021totalbusinesses,numeric,Total number of businesses in 2021.
+Block Group,n_2022beefspending,text,Consumer beef spending in 2022.
+Block Group,n_2021realestateholding,numeric,Real estate holdings value in 2021.
+Block Group,n_2021healthcare,numeric,Healthcare industry value in 2021.
+Block Group,n_2021foodanddrinksales,numeric,Food and drink sales in 2021.
+Block Group,n_2021accommodationfoodservices,numeric,Accommodation and food service value in 2021.
+Block Group,n_2021eatinganddrinkingsales,numeric,Eating and drinking place sales in 2021.
+Block Group,n_2023medianincome,numeric,Median household income in 2023.
+Block Group,n_2023averageincome,numeric,Average household income in 2023.
+Block Group,n_2028giniindex,numeric,Income inequality index for 2028.
+Block Group,n_2023manufacturing,numeric,Manufacturing industry value in 2023.
+Block Group,n_2023totalpop,numeric,Total population in 2023.
+Block Group,fem25,numeric,Female population aged 25.
+Block Group,fem30,numeric,Female population aged 30.
+Block Group,fem35,numeric,Female population aged 35.
+Block Group,male25,numeric,Male population aged 25.
+Block Group,male30,numeric,Male population aged 30.
+Block Group,male35,numeric,Male population aged 35.
+Block Group,n_2023totalcrimeindex,numeric,Total crime index score for 2023.
+Block Group,n_2023DisposableIncome100-149k,numeric,Number of households earning $100–149k in 2023.
+Block Group,n_2023disposableincomme150k,numeric,Number of households earning over $150k in 2023.
+Block Group,countyfp,text,County FIPS code.
+Block Group,tractce,text,Census tract code.
+Block Group,population,numeric,Total population count.
+Block Group,apportionm,numeric,Population apportionment measure.
+Block Group,blkgrpce,text,Block group code.
+Block Group,ogc_fid,integer,Unique spatial feature ID.
+Block Group,statefp,text,State FIPS code.
+Block Group,aggregatio,text,Data aggregation indicator.
+Block Group,source_cou,text,Data source or originating county.
+Business Location,id,integer,Unique identifier for the business.
+Business Location,name,text,Name of the business.
+Business Location,url,text,Website or online listing for the business.
+Business Location,address,text,Street address of the business.
+Business Location,city,text,City where the business is located.
+Business Location,zip,integer,ZIP code of the business location.
+Business Location,latitude,numeric,Latitude coordinate.
+Business Location,longitude,numeric,Longitude coordinate.
+Business Location,blockgroup,integer,Associated census block group.
+Business Location,categories,array,List of business categories or industries.
+Business Location,avg_rating,numeric,Average customer rating.
+Business Location,franchise,text,Indicates if the business is a franchise.
+Business Location,confidence,numeric,Confidence score for classification accuracy.
+Business Location,reasoning,text,Explanation or justification for classification.
+Business Location,geom,point,Geographic point location of the business.
+Brand,id,integer,Unique identifier for the business.
+Brand,name,text,Official name of the business.
+Brand,type,text,"Classification of the business (e.g., franchise, independent, chain)."
+Brand,naics,text,Business category classification

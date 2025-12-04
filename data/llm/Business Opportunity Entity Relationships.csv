@@ -1,0 +1,16 @@
+Entity Type 1,Relationship ,Entity Type 2
+Community ,Contained in,City
+Community,Overlaps,Block Group
+Community ,Overlaps,Zip Code
+Zip code ,Near,Zip Code
+County,Contained in,State
+City,Contained in,County
+County,Adjacent to,County
+City,Adjacent to,City
+Community ,Adjacent to,Community
+Community ,Nearby ,Community
+City,Nearby ,City
+,,
+Business,Contained in,Zip Code
+Business,Contained in,Block Group
+Business,Contained in,City
