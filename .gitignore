@@ -6,3 +6,5 @@ run_notebooks.sh
 neo4j_data
 output_*.ipynb
 notebooks/output_*.ipynb
+*.pyc
+__pycache__/
