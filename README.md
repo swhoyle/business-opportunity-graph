@@ -13,7 +13,7 @@ Enrich the graph with LLM-derived insights to better categorize businesses and r
 
 
 - Step 1:
-- 
+  
 Create a local or neo4j instance.
 
 - Step 2:
