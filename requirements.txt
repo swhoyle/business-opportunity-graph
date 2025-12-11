@@ -17,3 +17,7 @@ matplotlib
 mapclassify
 pointpats
 duckdb
+langchain_openai
+langgraph
+langchain_community
+langchain_core
