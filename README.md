@@ -12,41 +12,42 @@ Enrich the graph with LLM-derived insights to better categorize businesses and r
 ## Repository Instructions
 
 
-- Step 1:
-  
+- **Step 1:**
+ 
 Create a local or neo4j instance.
 
-- Step 2:
+- **Step 2:**
 
 Connect to UCSD VPN to access the postgreSQL database.
 
-- Step 3:
+- **Step 3:**
 
 Create an .env file copying the format shared below and fill in your credentials and database details where it says <>.
 
-- Step 4:
+- **Step 4:**
 
 Install python packages in the requirements.txt file.
 
 > pip install -r requirements.txt
 
-- Step 5: 
+- **Step 5:**
+
 Install APOC, APOC-Extended and Graph Data Science (GDS) plugins for your neo4j instance. APOC is required for step 6, whereas APOC-Extended and GDS are required for parts of step 8. APOC-Extended is a separate library from APOC and needs to be installed manually following the instructions here: Installation - APOC Extended Documentation
 
-- Step 6: 
+- **Step 6:** 
 
-Run notebooks 01-04 to create the knowledge graph.
+Run _notebooks 01-04_ to create the knowledge graph.
 
-- Step 7: 
+- **Step 7:** 
 
 Explore the neo4j graph using the cypher queries provided in the appendix.
 
-- Step 8: 
+- **Step 8:** 
 
 Conduct additional explanation and analytics using the rest of the notebooks.
 
-05_neo4j_visualization contains sections to generate the degree distribution plots, the map visuals used for progress reports throughout the quarter and the heatmap of the graph mixing
+_05_neo4j_visualization_ contains sections to generate the degree distribution plots, the map visuals used for progress reports throughout the quarter and the heatmap of the graph mixing
 
-07_best_location contains sections to run the initial node regression analysis to predict avg_rating
+_07_best_location contains_ sections to run the initial node regression analysis to predict avg_rating
 
-08_neo4j_graphrag contains a simple GraphRAG implementation to set it up and another section called Text2Cypher which has our actual GraphRAG implementation.
+_08_neo4j_graphrag_ contains a simple GraphRAG implementation to set it up and another section called Text2Cypher which has our actual GraphRAG implementation.
