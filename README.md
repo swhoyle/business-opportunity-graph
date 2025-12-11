@@ -22,6 +22,7 @@ Create an .env file copying the format shared below and fill in your credentials
 Step 4:
 Install python packages in the requirements.txt file.
 > pip install -r requirements.txt
+
 Step 5: 
 Install APOC, APOC-Extended and Graph Data Science (GDS) plugins for your neo4j instance. APOC is required for step 6, whereas APOC-Extended and GDS are required for parts of step 8. APOC-Extended is a separate library from APOC and needs to be installed manually following the instructions here: Installation - APOC Extended Documentation
 Step 6: 
